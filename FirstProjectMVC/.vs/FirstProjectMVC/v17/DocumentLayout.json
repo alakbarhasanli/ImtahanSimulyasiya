@@ -1,12 +1,675 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90FE00B3-EE92-4221-B6CE-69A07D3EF156}|FirstProject.BL\\FirstProject.BL.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstproject.bl\\services\\concretes\\carditemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FE00B3-EE92-4221-B6CE-69A07D3EF156}|FirstProject.BL\\FirstProject.BL.csproj|solutionrelative:firstproject.bl\\services\\concretes\\carditemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008407B7-F5ED-4C1C-8C9C-D162B48B51AC}|FirstProjectMVC\\FirstProjectMVC.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstprojectmvc\\areas\\admin\\views\\carditem\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{008407B7-F5ED-4C1C-8C9C-D162B48B51AC}|FirstProjectMVC\\FirstProjectMVC.csproj|solutionrelative:firstprojectmvc\\areas\\admin\\views\\carditem\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstproject.dal\\contexts\\firstprojectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|solutionrelative:firstproject.dal\\contexts\\firstprojectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008407B7-F5ED-4C1C-8C9C-D162B48B51AC}|FirstProjectMVC\\FirstProjectMVC.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstprojectmvc\\areas\\admin\\controllers\\carditemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{008407B7-F5ED-4C1C-8C9C-D162B48B51AC}|FirstProjectMVC\\FirstProjectMVC.csproj|solutionrelative:firstprojectmvc\\areas\\admin\\controllers\\carditemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008407B7-F5ED-4C1C-8C9C-D162B48B51AC}|FirstProjectMVC\\FirstProjectMVC.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstprojectmvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{008407B7-F5ED-4C1C-8C9C-D162B48B51AC}|FirstProjectMVC\\FirstProjectMVC.csproj|solutionrelative:firstprojectmvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008407B7-F5ED-4C1C-8C9C-D162B48B51AC}|FirstProjectMVC\\FirstProjectMVC.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstprojectmvc\\areas\\admin\\views\\carditem\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{008407B7-F5ED-4C1C-8C9C-D162B48B51AC}|FirstProjectMVC\\FirstProjectMVC.csproj|solutionrelative:firstprojectmvc\\areas\\admin\\views\\carditem\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008407B7-F5ED-4C1C-8C9C-D162B48B51AC}|FirstProjectMVC\\FirstProjectMVC.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstprojectmvc\\areas\\admin\\views\\carditem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{008407B7-F5ED-4C1C-8C9C-D162B48B51AC}|FirstProjectMVC\\FirstProjectMVC.csproj|solutionrelative:firstprojectmvc\\areas\\admin\\views\\carditem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008407B7-F5ED-4C1C-8C9C-D162B48B51AC}|FirstProjectMVC\\FirstProjectMVC.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstprojectmvc\\areas\\admin\\views\\carditem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{008407B7-F5ED-4C1C-8C9C-D162B48B51AC}|FirstProjectMVC\\FirstProjectMVC.csproj|solutionrelative:firstprojectmvc\\areas\\admin\\views\\carditem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008407B7-F5ED-4C1C-8C9C-D162B48B51AC}|FirstProjectMVC\\FirstProjectMVC.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstprojectmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{008407B7-F5ED-4C1C-8C9C-D162B48B51AC}|FirstProjectMVC\\FirstProjectMVC.csproj|solutionrelative:firstprojectmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008407B7-F5ED-4C1C-8C9C-D162B48B51AC}|FirstProjectMVC\\FirstProjectMVC.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstprojectmvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{008407B7-F5ED-4C1C-8C9C-D162B48B51AC}|FirstProjectMVC\\FirstProjectMVC.csproj|solutionrelative:firstprojectmvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008407B7-F5ED-4C1C-8C9C-D162B48B51AC}|FirstProjectMVC\\FirstProjectMVC.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstprojectmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{008407B7-F5ED-4C1C-8C9C-D162B48B51AC}|FirstProjectMVC\\FirstProjectMVC.csproj|solutionrelative:firstprojectmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008407B7-F5ED-4C1C-8C9C-D162B48B51AC}|FirstProjectMVC\\FirstProjectMVC.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstprojectmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{008407B7-F5ED-4C1C-8C9C-D162B48B51AC}|FirstProjectMVC\\FirstProjectMVC.csproj|solutionrelative:firstprojectmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008407B7-F5ED-4C1C-8C9C-D162B48B51AC}|FirstProjectMVC\\FirstProjectMVC.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstprojectmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{008407B7-F5ED-4C1C-8C9C-D162B48B51AC}|FirstProjectMVC\\FirstProjectMVC.csproj|solutionrelative:firstprojectmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstproject.dal\\repositories\\concretes\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|solutionrelative:firstproject.dal\\repositories\\concretes\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008407B7-F5ED-4C1C-8C9C-D162B48B51AC}|FirstProjectMVC\\FirstProjectMVC.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstprojectmvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{008407B7-F5ED-4C1C-8C9C-D162B48B51AC}|FirstProjectMVC\\FirstProjectMVC.csproj|solutionrelative:firstprojectmvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FE00B3-EE92-4221-B6CE-69A07D3EF156}|FirstProject.BL\\FirstProject.BL.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstproject.bl\\helpers\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FE00B3-EE92-4221-B6CE-69A07D3EF156}|FirstProject.BL\\FirstProject.BL.csproj|solutionrelative:firstproject.bl\\helpers\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\classtime\\Desktop\\MVC\\Bilet-18\\startbootstrap-sb-admin-2\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\classtime\\Desktop\\MVC\\Bilet-18\\Siimple\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008407B7-F5ED-4C1C-8C9C-D162B48B51AC}|FirstProjectMVC\\FirstProjectMVC.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstprojectmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{008407B7-F5ED-4C1C-8C9C-D162B48B51AC}|FirstProjectMVC\\FirstProjectMVC.csproj|solutionrelative:firstprojectmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008407B7-F5ED-4C1C-8C9C-D162B48B51AC}|FirstProjectMVC\\FirstProjectMVC.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstprojectmvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{008407B7-F5ED-4C1C-8C9C-D162B48B51AC}|FirstProjectMVC\\FirstProjectMVC.csproj|solutionrelative:firstprojectmvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FE00B3-EE92-4221-B6CE-69A07D3EF156}|FirstProject.BL\\FirstProject.BL.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstproject.bl\\dtos\\carditemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FE00B3-EE92-4221-B6CE-69A07D3EF156}|FirstProject.BL\\FirstProject.BL.csproj|solutionrelative:firstproject.bl\\dtos\\carditemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstproject.dal\\extensions\\servicesextensionsfordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|solutionrelative:firstproject.dal\\extensions\\servicesextensionsfordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FE00B3-EE92-4221-B6CE-69A07D3EF156}|FirstProject.BL\\FirstProject.BL.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstproject.bl\\extensions\\servicesextensionsforbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FE00B3-EE92-4221-B6CE-69A07D3EF156}|FirstProject.BL\\FirstProject.BL.csproj|solutionrelative:firstproject.bl\\extensions\\servicesextensionsforbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FE00B3-EE92-4221-B6CE-69A07D3EF156}|FirstProject.BL\\FirstProject.BL.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstproject.bl\\validations\\carditemvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FE00B3-EE92-4221-B6CE-69A07D3EF156}|FirstProject.BL\\FirstProject.BL.csproj|solutionrelative:firstproject.bl\\validations\\carditemvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FE00B3-EE92-4221-B6CE-69A07D3EF156}|FirstProject.BL\\FirstProject.BL.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstproject.bl\\services\\abstractions\\icarditemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FE00B3-EE92-4221-B6CE-69A07D3EF156}|FirstProject.BL\\FirstProject.BL.csproj|solutionrelative:firstproject.bl\\services\\abstractions\\icarditemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FE00B3-EE92-4221-B6CE-69A07D3EF156}|FirstProject.BL\\FirstProject.BL.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstproject.bl\\profiles\\carditemprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FE00B3-EE92-4221-B6CE-69A07D3EF156}|FirstProject.BL\\FirstProject.BL.csproj|solutionrelative:firstproject.bl\\profiles\\carditemprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstproject.dal\\entitites\\carditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|solutionrelative:firstproject.dal\\entitites\\carditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstproject.dal\\entitites\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|solutionrelative:firstproject.dal\\entitites\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstproject.dal\\repositories\\concretes\\carditemreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|solutionrelative:firstproject.dal\\repositories\\concretes\\carditemreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstproject.dal\\repositories\\concretes\\carditemwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|solutionrelative:firstproject.dal\\repositories\\concretes\\carditemwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstproject.dal\\repositories\\concretes\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|solutionrelative:firstproject.dal\\repositories\\concretes\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstproject.dal\\repositories\\abstractions\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|solutionrelative:firstproject.dal\\repositories\\abstractions\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstproject.dal\\repositories\\abstractions\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|solutionrelative:firstproject.dal\\repositories\\abstractions\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstproject.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|solutionrelative:firstproject.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstproject.dal\\repositories\\abstractions\\icarditemreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|solutionrelative:firstproject.dal\\repositories\\abstractions\\icarditemreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstproject.dal\\repositories\\abstractions\\icarditemwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|solutionrelative:firstproject.dal\\repositories\\abstractions\\icarditemwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstproject.dal\\entitites\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|solutionrelative:firstproject.dal\\entitites\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstproject.dal\\helpers\\getconnectionstr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|solutionrelative:firstproject.dal\\helpers\\getconnectionstr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008407B7-F5ED-4C1C-8C9C-D162B48B51AC}|FirstProjectMVC\\FirstProjectMVC.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstprojectmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{008407B7-F5ED-4C1C-8C9C-D162B48B51AC}|FirstProjectMVC\\FirstProjectMVC.csproj|solutionrelative:firstprojectmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstproject.dal\\migrations\\20250113110538_carditemstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|solutionrelative:firstproject.dal\\migrations\\20250113110538_carditemstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|c:\\users\\classtime\\source\\repos\\firstprojectmvc\\firstproject.dal\\migrations\\20250113105716_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2476775-2117-4482-877A-E264624AF507}|FirstProject.DAL\\FirstProject.DAL.csproj|solutionrelative:firstproject.dal\\migrations\\20250113105716_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProjectMVC\\Areas\\admin\\Views\\CardItem\\Create.cshtml",
+              "RelativeDocumentMoniker": "FirstProjectMVC\\Areas\\admin\\Views\\CardItem\\Create.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProjectMVC\\Areas\\admin\\Views\\CardItem\\Create.cshtml",
+              "RelativeToolTip": "FirstProjectMVC\\Areas\\admin\\Views\\CardItem\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T13:13:55.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProjectMVC\\Areas\\admin\\Views\\CardItem\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstProjectMVC\\Areas\\admin\\Views\\CardItem\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProjectMVC\\Areas\\admin\\Views\\CardItem\\Index.cshtml",
+              "RelativeToolTip": "FirstProjectMVC\\Areas\\admin\\Views\\CardItem\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T13:02:20.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProjectMVC\\Areas\\admin\\Views\\CardItem\\Info.cshtml",
+              "RelativeDocumentMoniker": "FirstProjectMVC\\Areas\\admin\\Views\\CardItem\\Info.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProjectMVC\\Areas\\admin\\Views\\CardItem\\Info.cshtml",
+              "RelativeToolTip": "FirstProjectMVC\\Areas\\admin\\Views\\CardItem\\Info.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T13:13:20.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProjectMVC\\Areas\\admin\\Views\\CardItem\\Update.cshtml",
+              "RelativeDocumentMoniker": "FirstProjectMVC\\Areas\\admin\\Views\\CardItem\\Update.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProjectMVC\\Areas\\admin\\Views\\CardItem\\Update.cshtml",
+              "RelativeToolTip": "FirstProjectMVC\\Areas\\admin\\Views\\CardItem\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T13:17:43.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProjectMVC\\Areas\\admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "FirstProjectMVC\\Areas\\admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProjectMVC\\Areas\\admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "FirstProjectMVC\\Areas\\admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:38:28.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CardItemController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProjectMVC\\Areas\\admin\\Controllers\\CardItemController.cs",
+              "RelativeDocumentMoniker": "FirstProjectMVC\\Areas\\admin\\Controllers\\CardItemController.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProjectMVC\\Areas\\admin\\Controllers\\CardItemController.cs",
+              "RelativeToolTip": "FirstProjectMVC\\Areas\\admin\\Controllers\\CardItemController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwC4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:24:04.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardItemService.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.BL\\Services\\Concretes\\CardItemService.cs",
+              "RelativeDocumentMoniker": "FirstProject.BL\\Services\\Concretes\\CardItemService.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.BL\\Services\\Concretes\\CardItemService.cs",
+              "RelativeToolTip": "FirstProject.BL\\Services\\Concretes\\CardItemService.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:40:51.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FirstProjectDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Contexts\\FirstProjectDbContext.cs",
+              "RelativeDocumentMoniker": "FirstProject.DAL\\Contexts\\FirstProjectDbContext.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Contexts\\FirstProjectDbContext.cs",
+              "RelativeToolTip": "FirstProject.DAL\\Contexts\\FirstProjectDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:50:00.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProjectMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FirstProjectMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProjectMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FirstProjectMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T12:19:54.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProjectMVC\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FirstProjectMVC\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProjectMVC\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FirstProjectMVC\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T12:40:27.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProjectMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstProjectMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProjectMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FirstProjectMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T12:21:08.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProjectMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FirstProjectMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProjectMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FirstProjectMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T14:29:32.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProjectMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FirstProjectMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProjectMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FirstProjectMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:56:35.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Repositories\\Concretes\\WriteRepository.cs",
+              "RelativeDocumentMoniker": "FirstProject.DAL\\Repositories\\Concretes\\WriteRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Repositories\\Concretes\\WriteRepository.cs",
+              "RelativeToolTip": "FirstProject.DAL\\Repositories\\Concretes\\WriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:17:27.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProjectMVC\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstProjectMVC\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProjectMVC\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "FirstProjectMVC\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T12:39:51.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.BL\\Helpers\\FileManager.cs",
+              "RelativeDocumentMoniker": "FirstProject.BL\\Helpers\\FileManager.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.BL\\Helpers\\FileManager.cs",
+              "RelativeToolTip": "FirstProject.BL\\Helpers\\FileManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:29:57.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\MVC\\Bilet-18\\startbootstrap-sb-admin-2\\index.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\MVC\\Bilet-18\\startbootstrap-sb-admin-2\\index.html",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\MVC\\Bilet-18\\startbootstrap-sb-admin-2\\index.html",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\MVC\\Bilet-18\\startbootstrap-sb-admin-2\\index.html",
+              "ViewState": "AgIAAKkCAAAAAAAAAIAwwLgCAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-13T12:45:54.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\MVC\\Bilet-18\\Siimple\\index.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\MVC\\Bilet-18\\Siimple\\index.html",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\MVC\\Bilet-18\\Siimple\\index.html",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\MVC\\Bilet-18\\Siimple\\index.html",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-13T12:18:21.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProjectMVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "FirstProjectMVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProjectMVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "FirstProjectMVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-13T12:16:50.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServicesExtensionsforDAL.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Extensions\\ServicesExtensionsforDAL.cs",
+              "RelativeDocumentMoniker": "FirstProject.DAL\\Extensions\\ServicesExtensionsforDAL.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Extensions\\ServicesExtensionsforDAL.cs",
+              "RelativeToolTip": "FirstProject.DAL\\Extensions\\ServicesExtensionsforDAL.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAtwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:51:37.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ICardItemService.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.BL\\Services\\Abstractions\\ICardItemService.cs",
+              "RelativeDocumentMoniker": "FirstProject.BL\\Services\\Abstractions\\ICardItemService.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.BL\\Services\\Abstractions\\ICardItemService.cs",
+              "RelativeToolTip": "FirstProject.BL\\Services\\Abstractions\\ICardItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:40:35.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CardItemValidation.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.BL\\Validations\\CardItemValidation.cs",
+              "RelativeDocumentMoniker": "FirstProject.BL\\Validations\\CardItemValidation.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.BL\\Validations\\CardItemValidation.cs",
+              "RelativeToolTip": "FirstProject.BL\\Validations\\CardItemValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:05:16.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ServicesExtensionsForBl.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.BL\\Extensions\\ServicesExtensionsForBl.cs",
+              "RelativeDocumentMoniker": "FirstProject.BL\\Extensions\\ServicesExtensionsForBl.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.BL\\Extensions\\ServicesExtensionsForBl.cs",
+              "RelativeToolTip": "FirstProject.BL\\Extensions\\ServicesExtensionsForBl.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:07:25.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProjectMVC\\Program.cs",
+              "RelativeDocumentMoniker": "FirstProjectMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProjectMVC\\Program.cs",
+              "RelativeToolTip": "FirstProjectMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:54:14.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CardItemCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.BL\\DTOs\\CardItemCreateDto.cs",
+              "RelativeDocumentMoniker": "FirstProject.BL\\DTOs\\CardItemCreateDto.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.BL\\DTOs\\CardItemCreateDto.cs",
+              "RelativeToolTip": "FirstProject.BL\\DTOs\\CardItemCreateDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAEwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:42:04.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CardItemProfile.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.BL\\Profiles\\CardItemProfile.cs",
+              "RelativeDocumentMoniker": "FirstProject.BL\\Profiles\\CardItemProfile.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.BL\\Profiles\\CardItemProfile.cs",
+              "RelativeToolTip": "FirstProject.BL\\Profiles\\CardItemProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:51:50.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CardItemReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Repositories\\Concretes\\CardItemReadRepository.cs",
+              "RelativeDocumentMoniker": "FirstProject.DAL\\Repositories\\Concretes\\CardItemReadRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Repositories\\Concretes\\CardItemReadRepository.cs",
+              "RelativeToolTip": "FirstProject.DAL\\Repositories\\Concretes\\CardItemReadRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:18:06.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CardItemWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Repositories\\Concretes\\CardItemWriteRepository.cs",
+              "RelativeDocumentMoniker": "FirstProject.DAL\\Repositories\\Concretes\\CardItemWriteRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Repositories\\Concretes\\CardItemWriteRepository.cs",
+              "RelativeToolTip": "FirstProject.DAL\\Repositories\\Concretes\\CardItemWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:17:52.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Entitites\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "FirstProject.DAL\\Entitites\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Entitites\\BaseEntity.cs",
+              "RelativeToolTip": "FirstProject.DAL\\Entitites\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:59:52.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CardItem.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Entitites\\CardItem.cs",
+              "RelativeDocumentMoniker": "FirstProject.DAL\\Entitites\\CardItem.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Entitites\\CardItem.cs",
+              "RelativeToolTip": "FirstProject.DAL\\Entitites\\CardItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:02:27.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Repositories\\Concretes\\ReadRepository.cs",
+              "RelativeDocumentMoniker": "FirstProject.DAL\\Repositories\\Concretes\\ReadRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Repositories\\Concretes\\ReadRepository.cs",
+              "RelativeToolTip": "FirstProject.DAL\\Repositories\\Concretes\\ReadRepository.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:17:15.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Repositories\\Abstractions\\IReadRepository.cs",
+              "RelativeDocumentMoniker": "FirstProject.DAL\\Repositories\\Abstractions\\IReadRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Repositories\\Abstractions\\IReadRepository.cs",
+              "RelativeToolTip": "FirstProject.DAL\\Repositories\\Abstractions\\IReadRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:06:27.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "FirstProject.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "RelativeToolTip": "FirstProject.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:06:13.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Repositories\\Abstractions\\IWriteRepository.cs",
+              "RelativeDocumentMoniker": "FirstProject.DAL\\Repositories\\Abstractions\\IWriteRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Repositories\\Abstractions\\IWriteRepository.cs",
+              "RelativeToolTip": "FirstProject.DAL\\Repositories\\Abstractions\\IWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:06:55.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ICardItemReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Repositories\\Abstractions\\ICardItemReadRepository.cs",
+              "RelativeDocumentMoniker": "FirstProject.DAL\\Repositories\\Abstractions\\ICardItemReadRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Repositories\\Abstractions\\ICardItemReadRepository.cs",
+              "RelativeToolTip": "FirstProject.DAL\\Repositories\\Abstractions\\ICardItemReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:15:13.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ICardItemWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Repositories\\Abstractions\\ICardItemWriteRepository.cs",
+              "RelativeDocumentMoniker": "FirstProject.DAL\\Repositories\\Abstractions\\ICardItemWriteRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Repositories\\Abstractions\\ICardItemWriteRepository.cs",
+              "RelativeToolTip": "FirstProject.DAL\\Repositories\\Abstractions\\ICardItemWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:15:29.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250113110538_CardItemsTable.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Migrations\\20250113110538_CardItemsTable.cs",
+              "RelativeDocumentMoniker": "FirstProject.DAL\\Migrations\\20250113110538_CardItemsTable.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Migrations\\20250113110538_CardItemsTable.cs",
+              "RelativeToolTip": "FirstProject.DAL\\Migrations\\20250113110538_CardItemsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:05:38.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Entitites\\AuditableEntity.cs",
+              "RelativeDocumentMoniker": "FirstProject.DAL\\Entitites\\AuditableEntity.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Entitites\\AuditableEntity.cs",
+              "RelativeToolTip": "FirstProject.DAL\\Entitites\\AuditableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:00:41.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20250113105716_initial.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Migrations\\20250113105716_initial.cs",
+              "RelativeDocumentMoniker": "FirstProject.DAL\\Migrations\\20250113105716_initial.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Migrations\\20250113105716_initial.cs",
+              "RelativeToolTip": "FirstProject.DAL\\Migrations\\20250113105716_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:57:17.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GetConnectionStr.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Helpers\\GetConnectionStr.cs",
+              "RelativeDocumentMoniker": "FirstProject.DAL\\Helpers\\GetConnectionStr.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProject.DAL\\Helpers\\GetConnectionStr.cs",
+              "RelativeToolTip": "FirstProject.DAL\\Helpers\\GetConnectionStr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:45:42.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProjectMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "FirstProjectMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FirstProjectMVC\\FirstProjectMVC\\appsettings.json",
+              "RelativeToolTip": "FirstProjectMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-13T10:42:08.961Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
