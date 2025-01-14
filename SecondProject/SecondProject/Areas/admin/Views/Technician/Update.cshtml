@@ -1,0 +1,28 @@
+﻿@model TechnicianCreateDto;
+
+<form method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input class="form-control" asp-for="Name">
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Profession"></label>
+        <input class="form-control" asp-for="Profession">
+        <span asp-validation-for="Profession" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="TechniciansPhoto" class="control-label"></label>
+        <input class="form-control" asp-for="TechniciansPhoto" type="file">
+        <span asp-validation-for="TechniciansPhoto" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ServiceId" class="control-label"></label>
+        <input class="form-control" asp-for="ServiceId" type="file">
+        <span asp-validation-for="ServiceId" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
