@@ -1,0 +1,14 @@
+C:\Users\classtime\source\repos\ThirdProject\Project.DAL\bin\Debug\net8.0\Project.DAL.deps.json
+C:\Users\classtime\source\repos\ThirdProject\Project.DAL\bin\Debug\net8.0\Project.DAL.runtimeconfig.json
+C:\Users\classtime\source\repos\ThirdProject\Project.DAL\bin\Debug\net8.0\Project.DAL.dll
+C:\Users\classtime\source\repos\ThirdProject\Project.DAL\bin\Debug\net8.0\Project.DAL.pdb
+C:\Users\classtime\source\repos\ThirdProject\Project.DAL\obj\Debug\net8.0\Project.DAL.csproj.AssemblyReference.cache
+C:\Users\classtime\source\repos\ThirdProject\Project.DAL\obj\Debug\net8.0\Project.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\classtime\source\repos\ThirdProject\Project.DAL\obj\Debug\net8.0\Project.DAL.AssemblyInfoInputs.cache
+C:\Users\classtime\source\repos\ThirdProject\Project.DAL\obj\Debug\net8.0\Project.DAL.AssemblyInfo.cs
+C:\Users\classtime\source\repos\ThirdProject\Project.DAL\obj\Debug\net8.0\Project.DAL.csproj.CoreCompileInputs.cache
+C:\Users\classtime\source\repos\ThirdProject\Project.DAL\obj\Debug\net8.0\Project.DAL.dll
+C:\Users\classtime\source\repos\ThirdProject\Project.DAL\obj\Debug\net8.0\refint\Project.DAL.dll
+C:\Users\classtime\source\repos\ThirdProject\Project.DAL\obj\Debug\net8.0\Project.DAL.pdb
+C:\Users\classtime\source\repos\ThirdProject\Project.DAL\obj\Debug\net8.0\Project.DAL.genruntimeconfig.cache
+C:\Users\classtime\source\repos\ThirdProject\Project.DAL\obj\Debug\net8.0\ref\Project.DAL.dll

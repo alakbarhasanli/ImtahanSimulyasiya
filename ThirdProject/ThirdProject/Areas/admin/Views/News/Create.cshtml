@@ -1,0 +1,26 @@
+﻿@model NewsCreateDto
+<form method="post" enctype="multipart/form-data">
+    <div class="form-group" >
+        <label asp-for="Title">Title</label>
+        <input  class="form-control" asp-for="Title">
+        <span asp-validation-for="Title" class="input-group-text"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Description">Description</label>
+        <input type="Description" class="form-control" asp-for="Description">
+        <span asp-validation-for="Description" class="input-group-text"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="NewsPhoto" class="control-label"></label>
+        <input class="form-control" asp-for="NewsPhoto" type="file">
+        <span asp-validation-for="NewsPhoto" class="text-danger"></span>
+    </div>
+    <select class="form-select" asp-for="CategoryId" asp-items="new SelectList(ViewBag.category ,nameof(Category.Id),nameof(Category.Title))">
+        <option selected>Choose Category</option>
+      
+    </select>
+
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "ThirdProject.cen0qb7wg3.styles.css",
+      "AssetFile": "ThirdProject.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dEw9sqC545cWWFf77acUMxi8QNFzIJZhjpbIzM7K5BA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 10:23:47 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cen0qb7wg3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dEw9sqC545cWWFf77acUMxi8QNFzIJZhjpbIzM7K5BA="
+        },
+        {
+          "Name": "label",
+          "Value": "ThirdProject.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "ThirdProject.styles.css",
+      "AssetFile": "ThirdProject.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dEw9sqC545cWWFf77acUMxi8QNFzIJZhjpbIzM7K5BA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 10:23:47 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dEw9sqC545cWWFf77acUMxi8QNFzIJZhjpbIzM7K5BA="
+        }
+      ]
+    }
+  ]
+}

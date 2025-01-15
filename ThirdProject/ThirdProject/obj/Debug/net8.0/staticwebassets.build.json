@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "SbdGLQqIvfPvTilR03S8B3LqmsRuO7olEUf8FL69f8g=",
+  "Source": "ThirdProject",
+  "BasePath": "_content/ThirdProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ThirdProject\\wwwroot",
+      "Source": "ThirdProject",
+      "ContentRoot": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\wwwroot\\",
+      "BasePath": "_content/ThirdProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ThirdProject.styles.css",
+      "SourceId": "ThirdProject",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/ThirdProject",
+      "RelativePath": "ThirdProject#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "cen0qb7wg3",
+      "Integrity": "dEw9sqC545cWWFf77acUMxi8QNFzIJZhjpbIzM7K5BA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ThirdProject.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ThirdProject.bundle.scp.css",
+      "SourceId": "ThirdProject",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/ThirdProject",
+      "RelativePath": "ThirdProject#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "cen0qb7wg3",
+      "Integrity": "dEw9sqC545cWWFf77acUMxi8QNFzIJZhjpbIzM7K5BA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ThirdProject.bundle.scp.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "ThirdProject.bundle.scp.css",
+      "AssetFile": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ThirdProject.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dEw9sqC545cWWFf77acUMxi8QNFzIJZhjpbIzM7K5BA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 10:23:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dEw9sqC545cWWFf77acUMxi8QNFzIJZhjpbIzM7K5BA="
+        }
+      ]
+    },
+    {
+      "Route": "ThirdProject.cen0qb7wg3.bundle.scp.css",
+      "AssetFile": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ThirdProject.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dEw9sqC545cWWFf77acUMxi8QNFzIJZhjpbIzM7K5BA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 10:23:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cen0qb7wg3"
+        },
+        {
+          "Name": "label",
+          "Value": "ThirdProject.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dEw9sqC545cWWFf77acUMxi8QNFzIJZhjpbIzM7K5BA="
+        }
+      ]
+    },
+    {
+      "Route": "ThirdProject.cen0qb7wg3.styles.css",
+      "AssetFile": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ThirdProject.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dEw9sqC545cWWFf77acUMxi8QNFzIJZhjpbIzM7K5BA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 10:23:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cen0qb7wg3"
+        },
+        {
+          "Name": "label",
+          "Value": "ThirdProject.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dEw9sqC545cWWFf77acUMxi8QNFzIJZhjpbIzM7K5BA="
+        }
+      ]
+    },
+    {
+      "Route": "ThirdProject.styles.css",
+      "AssetFile": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ThirdProject.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dEw9sqC545cWWFf77acUMxi8QNFzIJZhjpbIzM7K5BA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 10:23:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dEw9sqC545cWWFf77acUMxi8QNFzIJZhjpbIzM7K5BA="
+        }
+      ]
+    }
+  ]
+}

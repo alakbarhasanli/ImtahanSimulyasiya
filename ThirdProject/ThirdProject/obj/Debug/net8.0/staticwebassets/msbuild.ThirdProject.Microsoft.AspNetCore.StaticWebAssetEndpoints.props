@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/ThirdProject/ThirdProject.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ThirdProject.cen0qb7wg3.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dEw9sqC545cWWFf77acUMxi8QNFzIJZhjpbIzM7K5BA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1130"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022dEw9sqC545cWWFf77acUMxi8QNFzIJZhjpbIzM7K5BA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 15 Jan 2025 10:23:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ThirdProject/ThirdProject.cen0qb7wg3.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ThirdProject.cen0qb7wg3.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cen0qb7wg3"},{"Name":"integrity","Value":"sha256-dEw9sqC545cWWFf77acUMxi8QNFzIJZhjpbIzM7K5BA="},{"Name":"label","Value":"_content/ThirdProject/ThirdProject.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1130"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022dEw9sqC545cWWFf77acUMxi8QNFzIJZhjpbIzM7K5BA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 15 Jan 2025 10:23:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

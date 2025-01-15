@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ThirdProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ThirdProject.cen0qb7wg3.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ThirdProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ThirdProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ThirdProject.props",
+      "PackagePath": "build\\ThirdProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ThirdProject.props",
+      "PackagePath": "buildMultiTargeting\\ThirdProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ThirdProject.props",
+      "PackagePath": "buildTransitive\\ThirdProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
