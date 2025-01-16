@@ -28,7 +28,18 @@ Licence URI: http://www.os-templates.com/template-terms
                     <input type="password" />
                     <input type="text" />
                     <div id="forgot">Need <a href="#">Help ?</a> or <a href="#">Forgot Your Details ?</a></div>
-                    <input type="image" src="~/layout/images/sign_in.gif" id="signin" alt="Sign In" />
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <a type="button" class="btn btn-secondary">@User.Identity.Name</a>
+                        <a type="button" class="btn btn-secondary" style="margin-left: 10px" asp-controller="Auth" asp-action="Logout">Logout</a>
+
+                    }
+                    else
+                    {
+                        <a type="button" class="btn btn-secondary " asp-controller="Auth" asp-action="Login">Sign Up</a>
+
+                    }
+                    <a type="button" class="btn btn-secondary " asp-controller="admin" asp-action="Index"> Admin</a>
                 </fieldset>
             </form>
         </div>

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Project.BL.DTOs;
 using Project.BL.Services.Abstractions;
@@ -6,6 +7,7 @@ using Project.BL.Services.Abstractions;
 namespace ThirdProject.Areas.admin.Controllers
 {
     [Area("admin")]
+    [Authorize(Roles ="admin")]
     public class CategoryController : Controller
     {
         private readonly ICategoryService _service;

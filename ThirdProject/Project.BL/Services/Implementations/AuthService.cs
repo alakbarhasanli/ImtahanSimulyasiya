@@ -15,16 +15,19 @@ namespace Project.BL.Services.Implementations
     public class AuthService : IAuthService
     {
         private readonly SignInManager<AppUser> _sign;
+        private readonly RoleManager<IdentityRole> _role;
 
-        public AuthService(SignInManager<AppUser> sign, UserManager<AppUser> manager, IMapper mapper)
+        public AuthService(SignInManager<AppUser> sign, UserManager<AppUser> manager, IMapper mapper, RoleManager<IdentityRole> role)
         {
             _sign = sign;
             _manager = manager;
             _mapper = mapper;
+            _role = role;
         }
 
         private readonly UserManager<AppUser> _manager;
         private readonly IMapper _mapper;
+       
 
         public async Task<bool> LoginAsync(LoginCreateDto loginCreateDto)
         {
@@ -57,6 +60,14 @@ namespace Project.BL.Services.Implementations
            if(!result.Succeeded)
             {
                 return false;
+            }
+
+            await _role.CreateAsync(new IdentityRole("admin"));
+            await _role.CreateAsync(new IdentityRole("user"));
+            var assignRoleResult = await _manager.AddToRoleAsync(user, "admin");
+            if (!assignRoleResult.Succeeded)
+            {
+                throw new Exception("Error assigning role to user");
             }
             return true;
         }

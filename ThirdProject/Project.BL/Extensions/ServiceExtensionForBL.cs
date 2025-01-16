@@ -20,12 +20,15 @@ namespace Project.BL.Extensions
         {
             service.AddScoped<INewsService, NewsService>();
             service.AddScoped<ICategoryService, CategoryService>();
+            service.AddScoped<IAuthService, AuthService>();
 
             service.AddAutoMapper(typeof(NewsProfile).Assembly);
             service.AddAutoMapper(typeof(CategoryProfile).Assembly);
+            service.AddAutoMapper(typeof(AuthProfile).Assembly);
 
             service.AddValidatorsFromAssembly(typeof(NewsValidation).Assembly);
             service.AddValidatorsFromAssembly(typeof(CategoryValidation).Assembly);
+            service.AddValidatorsFromAssembly(typeof(AuthValidation).Assembly);
             service.AddFluentValidationAutoValidation().AddFluentValidationClientsideAdapters();
 
 

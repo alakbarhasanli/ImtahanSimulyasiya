@@ -1,12 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ThirdProject.bundle.scp.css",
-      "PackagePath": "staticwebassets\\ThirdProject.cen0qb7wg3.bundle.scp.css"
-    },
-    {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ThirdProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
-      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+      "Id": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ThirdProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ThirdProject.bundle.scp.css"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ThirdProject.Microsoft.AspNetCore.StaticWebAssets.props",

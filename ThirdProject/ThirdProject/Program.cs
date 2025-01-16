@@ -1,5 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Project.BL.Extensions;
+using Project.BL.Services.Abstractions;
+using Project.BL.Services.Implementations;
 using Project.DAL.Contexts;
 using Project.DAL.Entitites;
 using Project.DAL.Extensions;
@@ -9,6 +11,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddingServiceForDAL();
 builder.Services.AddingServiceForBL();
+
 builder.Services.AddIdentity<AppUser, IdentityRole>(options =>
 {
     options.Password.RequireDigit = true;
@@ -20,6 +23,7 @@ builder.Services.AddIdentity<AppUser, IdentityRole>(options =>
     options.User.RequireUniqueEmail = true;
 }).AddEntityFrameworkStores<ThirdProjectDbContext>().AddRoles<IdentityRole>().AddDefaultTokenProviders();
 var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

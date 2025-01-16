@@ -1,242 +1,246 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.bl\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.bl\\services\\abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\services\\abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.bl\\dtos\\logincreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\dtos\\logincreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.bl\\profiles\\authprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\profiles\\authprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.bl\\profiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\profiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.bl\\dtos\\registercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\dtos\\registercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\thirdproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\thirdproject\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\thirdproject\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.dal\\entitites\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\entitites\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\thirdproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.dal\\contexts\\thirdprojectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\contexts\\thirdprojectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.bl\\helpers\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\helpers\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.bl\\services\\implementations\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\services\\implementations\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Migrations\\20250115142258_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project.DAL\\Migrations\\20250115142258_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\thirdproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\thirdproject\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\thirdproject\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.bl\\dtos\\newscreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\dtos\\newscreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.dal\\entitites\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\entitites\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\thirdproject\\areas\\admin\\views\\news\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\news\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\thirdproject\\areas\\admin\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\thirdproject\\areas\\admin\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\thirdproject\\areas\\admin\\views\\news\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\news\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\thirdproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\thirdproject\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\thirdproject\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.bl\\dtos\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\dtos\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.bl\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.bl\\services\\abstractions\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\services\\abstractions\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.bl\\services\\abstractions\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\services\\abstractions\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\thirdproject\\areas\\admin\\views\\category\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\category\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.bl\\validations\\categoryvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\validations\\categoryvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.bl\\validations\\newsvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\validations\\newsvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\thirdproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\thirdproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\thirdproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\thirdproject\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\thirdproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.dal\\extensions\\serviceextensionfordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\extensions\\serviceextensionfordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.bl\\extensions\\serviceextensionforbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\extensions\\serviceextensionforbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.bl\\profiles\\newsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\profiles\\newsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.dal\\entitites\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\entitites\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.dal\\repositories\\abstractions\\inewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\repositories\\abstractions\\inewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.dal\\repositories\\abstractions\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\repositories\\abstractions\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.dal\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.dal\\repositories\\implementations\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\repositories\\implementations\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.dal\\entitites\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\entitites\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.dal\\entitites\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\entitites\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\thirdproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\thirdproject\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\thirdproject\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\thirdproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\thirdproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.dal\\helpers\\getconnectionstr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.dal\\repositories\\abstractions\\inewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\repositories\\abstractions\\inewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.dal\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.dal\\repositories\\abstractions\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\repositories\\abstractions\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.dal\\extensions\\serviceextensionfordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\extensions\\serviceextensionfordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.dal\\entitites\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\entitites\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.dal\\contexts\\thirdprojectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\contexts\\thirdprojectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.bl\\validations\\categoryvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\validations\\categoryvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.bl\\validations\\authvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\validations\\authvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.bl\\services\\implementations\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\services\\implementations\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.bl\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.bl\\services\\abstractions\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\services\\abstractions\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.bl\\services\\abstractions\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\services\\abstractions\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.bl\\services\\abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\services\\abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.bl\\profiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\profiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.bl\\profiles\\authprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\profiles\\authprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.bl\\helpers\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\helpers\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.bl\\extensions\\serviceextensionforbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\extensions\\serviceextensionforbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.bl\\dtos\\registercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\dtos\\registercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.bl\\dtos\\newscreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\dtos\\newscreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.bl\\dtos\\logincreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\dtos\\logincreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.bl\\dtos\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\dtos\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.dal\\entitites\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\entitites\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\areas\\admin\\views\\news\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\news\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\areas\\admin\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\areas\\admin\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\areas\\admin\\views\\news\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\news\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.bl\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\areas\\admin\\views\\category\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\category\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.bl\\validations\\newsvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\validations\\newsvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.bl\\profiles\\newsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\profiles\\newsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.dal\\entitites\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\entitites\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.dal\\repositories\\implementations\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\repositories\\implementations\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.dal\\entitites\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\entitites\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.dal\\entitites\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\entitites\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.dal\\helpers\\getconnectionstr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\helpers\\getconnectionstr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.dal\\migrations\\20250115105252_tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.dal\\migrations\\20250115105252_tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\migrations\\20250115105252_tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\classtime\\source\\repos\\thirdproject\\project.dal\\migrations\\20250115102349_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.dal\\migrations\\20250115102349_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\migrations\\20250115102349_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.dal\\migrations\\20250115142258_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\migrations\\20250115142258_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -246,17 +250,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 13,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Areas\\admin\\Controllers\\CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Areas\\admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "ThirdProject\\Areas\\admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA1wAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T11:58:06.412Z",
               "IsPinned": true,
@@ -264,154 +268,258 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthProfile.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\Profiles\\AuthProfile.cs",
-              "RelativeDocumentMoniker": "Project.BL\\Profiles\\AuthProfile.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\Profiles\\AuthProfile.cs",
-              "RelativeToolTip": "Project.BL\\Profiles\\AuthProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:36:33.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\Services\\Implementations\\AuthService.cs",
-              "RelativeDocumentMoniker": "Project.BL\\Services\\Implementations\\AuthService.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\Services\\Implementations\\AuthService.cs",
-              "RelativeToolTip": "Project.BL\\Services\\Implementations\\AuthService.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAUwC0AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:34:17.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\Services\\Abstractions\\IAuthService.cs",
-              "RelativeDocumentMoniker": "Project.BL\\Services\\Abstractions\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\Services\\Abstractions\\IAuthService.cs",
-              "RelativeToolTip": "Project.BL\\Services\\Abstractions\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:31:52.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\DTOs\\LoginCreateDto.cs",
-              "RelativeDocumentMoniker": "Project.BL\\DTOs\\LoginCreateDto.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\DTOs\\LoginCreateDto.cs",
-              "RelativeToolTip": "Project.BL\\DTOs\\LoginCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:29:12.462Z",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ThirdProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ThirdProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T10:09:01.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "RegisterCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\DTOs\\RegisterCreateDto.cs",
-              "RelativeDocumentMoniker": "Project.BL\\DTOs\\RegisterCreateDto.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\DTOs\\RegisterCreateDto.cs",
-              "RelativeToolTip": "Project.BL\\DTOs\\RegisterCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:27:08.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "ThirdProject\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "ThirdProject\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:26:41.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoryProfile.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\Profiles\\CategoryProfile.cs",
-              "RelativeDocumentMoniker": "Project.BL\\Profiles\\CategoryProfile.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\Profiles\\CategoryProfile.cs",
-              "RelativeToolTip": "Project.BL\\Profiles\\CategoryProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:17:54.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Views\\Auth\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Views\\Auth\\Login.cshtml",
               "RelativeDocumentMoniker": "ThirdProject\\Views\\Auth\\Login.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Views\\Auth\\Login.cshtml",
               "RelativeToolTip": "ThirdProject\\Views\\Auth\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-15T14:26:26.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Views\\Auth\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Views\\Auth\\Register.cshtml",
               "RelativeDocumentMoniker": "ThirdProject\\Views\\Auth\\Register.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Views\\Auth\\Register.cshtml",
               "RelativeToolTip": "ThirdProject\\Views\\Auth\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-15T14:26:18.901Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "NewsService.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\Services\\Implementations\\NewsService.cs",
-              "RelativeDocumentMoniker": "Project.BL\\Services\\Implementations\\NewsService.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\Services\\Implementations\\NewsService.cs",
-              "RelativeToolTip": "Project.BL\\Services\\Implementations\\NewsService.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAawDsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:19:34.278Z",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "ThirdProject\\Areas\\admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T12:09:56.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FileManager.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\Helpers\\FileManager.cs",
-              "RelativeDocumentMoniker": "Project.BL\\Helpers\\FileManager.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\Helpers\\FileManager.cs",
-              "RelativeToolTip": "Project.BL\\Helpers\\FileManager.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAawCgAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "ThirdProject\\Areas\\admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T12:09:42.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "ThirdProject\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAAFgBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T10:36:29.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ThirdProject\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEUAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T10:36:22.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ThirdProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ThirdProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAACkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T10:26:31.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Program.cs",
+              "RelativeDocumentMoniker": "ThirdProject\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Program.cs",
+              "RelativeToolTip": "ThirdProject\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:48:37.381Z",
+              "WhenOpened": "2025-01-15T10:09:16.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\appsettings.json",
+              "RelativeDocumentMoniker": "ThirdProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\appsettings.json",
+              "RelativeToolTip": "ThirdProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T10:13:52.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ThirdProject\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ThirdProject\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAMwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:26:41.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "ThirdProject\\Areas\\admin\\Controllers\\NewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:57:44.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "ThirdProject\\Areas\\admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:35:32.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "INewsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Repositories\\Abstractions\\INewsRepository.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Abstractions\\INewsRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Repositories\\Abstractions\\INewsRepository.cs",
+              "RelativeToolTip": "Project.DAL\\Repositories\\Abstractions\\INewsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:54:35.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeToolTip": "Project.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:07:20.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeToolTip": "Project.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIAwwEMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:59:32.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Repositories\\Abstractions\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Abstractions\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Repositories\\Abstractions\\ICategoryRepository.cs",
+              "RelativeToolTip": "Project.DAL\\Repositories\\Abstractions\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:54:09.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "RelativeToolTip": "Project.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:53:53.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ServiceExtensionForDal.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Extensions\\ServiceExtensionForDal.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Extensions\\ServiceExtensionForDal.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Extensions\\ServiceExtensionForDal.cs",
+              "RelativeToolTip": "Project.DAL\\Extensions\\ServiceExtensionForDal.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:20:54.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Entitites\\AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Entitites\\AppUser.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Entitites\\AppUser.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Entitites\\AppUser.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Entitites\\AppUser.cs",
               "RelativeToolTip": "Project.DAL\\Entitites\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -420,63 +528,231 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "ThirdProjectDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Contexts\\ThirdProjectDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Contexts\\ThirdProjectDbContext.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Contexts\\ThirdProjectDbContext.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Contexts\\ThirdProjectDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Contexts\\ThirdProjectDbContext.cs",
               "RelativeToolTip": "Project.DAL\\Contexts\\ThirdProjectDbContext.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwAwAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T10:10:37Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\appsettings.json",
-              "RelativeDocumentMoniker": "ThirdProject\\appsettings.json",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\appsettings.json",
-              "RelativeToolTip": "ThirdProject\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-15T10:13:52.273Z",
+              "DocumentIndex": 22,
+              "Title": "CategoryValidation.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Validations\\CategoryValidation.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Validations\\CategoryValidation.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Validations\\CategoryValidation.cs",
+              "RelativeToolTip": "Project.BL\\Validations\\CategoryValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:41:11.305Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
+              "Title": "AuthValidation.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Validations\\AuthValidation.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Validations\\AuthValidation.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Validations\\AuthValidation.cs",
+              "RelativeToolTip": "Project.BL\\Validations\\AuthValidation.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:34:00.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NewsService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Services\\Implementations\\NewsService.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Services\\Implementations\\NewsService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Services\\Implementations\\NewsService.cs",
+              "RelativeToolTip": "Project.BL\\Services\\Implementations\\NewsService.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAhwDsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:19:34.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Services\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Services\\Implementations\\AuthService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Services\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "Project.BL\\Services\\Implementations\\AuthService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:34:17.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "INewsService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Services\\Abstractions\\INewsService.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Services\\Abstractions\\INewsService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Services\\Abstractions\\INewsService.cs",
+              "RelativeToolTip": "Project.BL\\Services\\Abstractions\\INewsService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:09:44.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Services\\Abstractions\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Services\\Abstractions\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Services\\Abstractions\\ICategoryService.cs",
+              "RelativeToolTip": "Project.BL\\Services\\Abstractions\\ICategoryService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:16:45.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Services\\Abstractions\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Services\\Abstractions\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Services\\Abstractions\\IAuthService.cs",
+              "RelativeToolTip": "Project.BL\\Services\\Abstractions\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:31:52.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CategoryProfile.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Profiles\\CategoryProfile.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Profiles\\CategoryProfile.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Profiles\\CategoryProfile.cs",
+              "RelativeToolTip": "Project.BL\\Profiles\\CategoryProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:17:54.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AuthProfile.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Profiles\\AuthProfile.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Profiles\\AuthProfile.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Profiles\\AuthProfile.cs",
+              "RelativeToolTip": "Project.BL\\Profiles\\AuthProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:36:33.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Helpers\\FileManager.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Helpers\\FileManager.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Helpers\\FileManager.cs",
+              "RelativeToolTip": "Project.BL\\Helpers\\FileManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:48:37.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ServiceExtensionForBL.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Extensions\\ServiceExtensionForBL.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Extensions\\ServiceExtensionForBL.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Extensions\\ServiceExtensionForBL.cs",
+              "RelativeToolTip": "Project.BL\\Extensions\\ServiceExtensionForBL.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:42:00.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RegisterCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\DTOs\\RegisterCreateDto.cs",
+              "RelativeDocumentMoniker": "Project.BL\\DTOs\\RegisterCreateDto.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\DTOs\\RegisterCreateDto.cs",
+              "RelativeToolTip": "Project.BL\\DTOs\\RegisterCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:27:08.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "NewsCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\DTOs\\NewsCreateDto.cs",
+              "RelativeDocumentMoniker": "Project.BL\\DTOs\\NewsCreateDto.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\DTOs\\NewsCreateDto.cs",
+              "RelativeToolTip": "Project.BL\\DTOs\\NewsCreateDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:13:39.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoginCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\DTOs\\LoginCreateDto.cs",
+              "RelativeDocumentMoniker": "Project.BL\\DTOs\\LoginCreateDto.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\DTOs\\LoginCreateDto.cs",
+              "RelativeToolTip": "Project.BL\\DTOs\\LoginCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:29:12.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CategoryCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\DTOs\\CategoryCreateDto.cs",
+              "RelativeDocumentMoniker": "Project.BL\\DTOs\\CategoryCreateDto.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\DTOs\\CategoryCreateDto.cs",
+              "RelativeToolTip": "Project.BL\\DTOs\\CategoryCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:13:28.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
               "Title": "20250115142258_identity.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Migrations\\20250115142258_identity.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Migrations\\20250115142258_identity.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Migrations\\20250115142258_identity.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Migrations\\20250115142258_identity.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Migrations\\20250115142258_identity.cs",
               "RelativeToolTip": "Project.DAL\\Migrations\\20250115142258_identity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:22:58.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T14:22:58.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Program.cs",
-              "RelativeDocumentMoniker": "ThirdProject\\Program.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Program.cs",
-              "RelativeToolTip": "ThirdProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T10:09:16.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 37,
               "Title": "News.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Entitites\\News.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Entitites\\News.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Entitites\\News.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Entitites\\News.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Entitites\\News.cs",
               "RelativeToolTip": "Project.DAL\\Entitites\\News.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -484,11 +760,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 38,
               "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\News\\Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\News\\Update.cshtml",
               "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Views\\News\\Update.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\News\\Update.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\News\\Update.cshtml",
               "RelativeToolTip": "ThirdProject\\Areas\\admin\\Views\\News\\Update.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -496,47 +772,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Repositories\\Implementations\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Implementations\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Repositories\\Implementations\\GenericRepository.cs",
-              "RelativeToolTip": "Project.DAL\\Repositories\\Implementations\\GenericRepository.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAnwEMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T10:59:32.869Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "NewsController.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Areas\\admin\\Controllers\\NewsController.cs",
-              "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Controllers\\NewsController.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Areas\\admin\\Controllers\\NewsController.cs",
-              "RelativeToolTip": "ThirdProject\\Areas\\admin\\Controllers\\NewsController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAwCYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:57:44.129Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "NewsCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\DTOs\\NewsCreateDto.cs",
-              "RelativeDocumentMoniker": "Project.BL\\DTOs\\NewsCreateDto.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\DTOs\\NewsCreateDto.cs",
-              "RelativeToolTip": "Project.BL\\DTOs\\NewsCreateDto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:13:39.238Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 39,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\News\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\News\\Index.cshtml",
               "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Views\\News\\Index.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\News\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\News\\Index.cshtml",
               "RelativeToolTip": "ThirdProject\\Areas\\admin\\Views\\News\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -544,11 +784,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 40,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\News\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\News\\Create.cshtml",
               "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Views\\News\\Create.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\News\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\News\\Create.cshtml",
               "RelativeToolTip": "ThirdProject\\Areas\\admin\\Views\\News\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -556,11 +796,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 41,
               "Title": "Info.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\News\\Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\News\\Info.cshtml",
               "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Views\\News\\Info.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\News\\Info.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\News\\Info.cshtml",
               "RelativeToolTip": "ThirdProject\\Areas\\admin\\Views\\News\\Info.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -568,35 +808,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "ThirdProject\\Areas\\admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T12:09:42.787Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "ThirdProject\\Areas\\admin\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T12:09:56.977Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 42,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ThirdProject\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ThirdProject\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -604,23 +820,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "CategoryCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\DTOs\\CategoryCreateDto.cs",
-              "RelativeDocumentMoniker": "Project.BL\\DTOs\\CategoryCreateDto.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\DTOs\\CategoryCreateDto.cs",
-              "RelativeToolTip": "Project.BL\\DTOs\\CategoryCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:13:28.953Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 43,
               "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\Services\\Implementations\\CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Services\\Implementations\\CategoryService.cs",
               "RelativeDocumentMoniker": "Project.BL\\Services\\Implementations\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\Services\\Implementations\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Services\\Implementations\\CategoryService.cs",
               "RelativeToolTip": "Project.BL\\Services\\Implementations\\CategoryService.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAQwDgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -628,35 +832,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "INewsService.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\Services\\Abstractions\\INewsService.cs",
-              "RelativeDocumentMoniker": "Project.BL\\Services\\Abstractions\\INewsService.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\Services\\Abstractions\\INewsService.cs",
-              "RelativeToolTip": "Project.BL\\Services\\Abstractions\\INewsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T13:09:44.864Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\Services\\Abstractions\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "Project.BL\\Services\\Abstractions\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\Services\\Abstractions\\ICategoryService.cs",
-              "RelativeToolTip": "Project.BL\\Services\\Abstractions\\ICategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:16:45.977Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 44,
               "Title": "Info.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Category\\Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Category\\Info.cshtml",
               "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Views\\Category\\Info.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Category\\Info.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Category\\Info.cshtml",
               "RelativeToolTip": "ThirdProject\\Areas\\admin\\Views\\Category\\Info.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -664,23 +844,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "CategoryValidation.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\Validations\\CategoryValidation.cs",
-              "RelativeDocumentMoniker": "Project.BL\\Validations\\CategoryValidation.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\Validations\\CategoryValidation.cs",
-              "RelativeToolTip": "Project.BL\\Validations\\CategoryValidation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:41:11.305Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 45,
               "Title": "NewsValidation.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\Validations\\NewsValidation.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Validations\\NewsValidation.cs",
               "RelativeDocumentMoniker": "Project.BL\\Validations\\NewsValidation.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\Validations\\NewsValidation.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Validations\\NewsValidation.cs",
               "RelativeToolTip": "Project.BL\\Validations\\NewsValidation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -688,23 +856,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ThirdProject\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAswEUAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T10:36:22.043Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 46,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ThirdProject\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "ThirdProject\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -712,11 +868,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 47,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ThirdProject\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "ThirdProject\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -724,11 +880,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 48,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "ThirdProject\\Areas\\admin\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -736,47 +892,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "ServiceExtensionForBL.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\Extensions\\ServiceExtensionForBL.cs",
-              "RelativeDocumentMoniker": "Project.BL\\Extensions\\ServiceExtensionForBL.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\Extensions\\ServiceExtensionForBL.cs",
-              "RelativeToolTip": "Project.BL\\Extensions\\ServiceExtensionForBL.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAIBJwBwAAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:42:00.343Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Areas\\admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Areas\\admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "ThirdProject\\Areas\\admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T10:35:32.619Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "ServiceExtensionForDal.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Extensions\\ServiceExtensionForDal.cs",
-              "RelativeDocumentMoniker": "Project.DAL\\Extensions\\ServiceExtensionForDal.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Extensions\\ServiceExtensionForDal.cs",
-              "RelativeToolTip": "Project.DAL\\Extensions\\ServiceExtensionForDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T10:20:54.748Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 49,
               "Title": "NewsProfile.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\Profiles\\NewsProfile.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Profiles\\NewsProfile.cs",
               "RelativeDocumentMoniker": "Project.BL\\Profiles\\NewsProfile.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.BL\\Profiles\\NewsProfile.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Profiles\\NewsProfile.cs",
               "RelativeToolTip": "Project.BL\\Profiles\\NewsProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -784,35 +904,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
-              "RelativeToolTip": "Project.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T10:53:53.891Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
-              "RelativeToolTip": "Project.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:07:20.015Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "NewsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Repositories\\Implementations\\NewsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Repositories\\Implementations\\NewsRepository.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Implementations\\NewsRepository.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Repositories\\Implementations\\NewsRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Repositories\\Implementations\\NewsRepository.cs",
               "RelativeToolTip": "Project.DAL\\Repositories\\Implementations\\NewsRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -820,23 +916,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "INewsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Repositories\\Abstractions\\INewsRepository.cs",
-              "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Abstractions\\INewsRepository.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Repositories\\Abstractions\\INewsRepository.cs",
-              "RelativeToolTip": "Project.DAL\\Repositories\\Abstractions\\INewsRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T10:54:35.637Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 50,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Entitites\\Category.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Entitites\\Category.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Entitites\\Category.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Entitites\\Category.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Entitites\\Category.cs",
               "RelativeToolTip": "Project.DAL\\Entitites\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -844,23 +928,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Repositories\\Abstractions\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Abstractions\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Repositories\\Abstractions\\ICategoryRepository.cs",
-              "RelativeToolTip": "Project.DAL\\Repositories\\Abstractions\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T10:54:09.38Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 57,
               "Title": "20250115105252_Tables.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Migrations\\20250115105252_Tables.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Migrations\\20250115105252_Tables.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Migrations\\20250115105252_Tables.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Migrations\\20250115105252_Tables.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Migrations\\20250115105252_Tables.cs",
               "RelativeToolTip": "Project.DAL\\Migrations\\20250115105252_Tables.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -868,11 +940,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 52,
               "Title": "AuditableEntity.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Entitites\\AuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Entitites\\AuditableEntity.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Entitites\\AuditableEntity.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Entitites\\AuditableEntity.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Entitites\\AuditableEntity.cs",
               "RelativeToolTip": "Project.DAL\\Entitites\\AuditableEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -880,11 +952,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 53,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Entitites\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Entitites\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Entitites\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Entitites\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Entitites\\BaseEntity.cs",
               "RelativeToolTip": "Project.DAL\\Entitites\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -892,23 +964,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "ThirdProject\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAGkAAAAAAAAAAIBJwFgBAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T10:36:29.422Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 54,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "ThirdProject\\Areas\\admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -916,11 +976,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 55,
               "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "ThirdProject\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\ScaffoldingReadMe.txt",
               "RelativeToolTip": "ThirdProject\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -928,23 +988,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ThirdProject\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ThirdProject\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAHcAAAAAAAAAAAAqwCgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T10:26:31.512Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 58,
               "Title": "20250115102349_initial.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Migrations\\20250115102349_initial.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Migrations\\20250115102349_initial.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Migrations\\20250115102349_initial.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Migrations\\20250115102349_initial.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Migrations\\20250115102349_initial.cs",
               "RelativeToolTip": "Project.DAL\\Migrations\\20250115102349_initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -954,25 +1002,13 @@
               "$type": "Document",
               "DocumentIndex": 56,
               "Title": "GetConnectionStr.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Helpers\\GetConnectionStr.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Helpers\\GetConnectionStr.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Helpers\\GetConnectionStr.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\Project.DAL\\Helpers\\GetConnectionStr.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Helpers\\GetConnectionStr.cs",
               "RelativeToolTip": "Project.DAL\\Helpers\\GetConnectionStr.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T10:15:25.928Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ThirdProject\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\ThirdProject\\ThirdProject\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ThirdProject\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAACgAAAAAAAAAAAAiwJkAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T10:09:01.179Z"
             }
           ]
         }

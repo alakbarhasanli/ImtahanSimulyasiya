@@ -17,81 +17,79 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ThirdProject
 build_property.RootNamespace = ThirdProject
-build_property.ProjectDir = C:\Users\classtime\source\repos\ThirdProject\ThirdProject\
+build_property.ProjectDir = C:\Users\HP\Desktop\simulyasiya\ImtahanSimulyasiya\ImtahanSimulyasiya\ThirdProject\ThirdProject\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\classtime\source\repos\ThirdProject\ThirdProject
+build_property.MSBuildProjectDirectory = C:\Users\HP\Desktop\simulyasiya\ImtahanSimulyasiya\ImtahanSimulyasiya\ThirdProject\ThirdProject
 build_property._RazorSourceGeneratorDebug = 
-build_property.EffectiveAnalysisLevelStyle = 8.0
-build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/classtime/source/repos/ThirdProject/ThirdProject/Areas/admin/Views/Category/Create.cshtml]
+[C:/Users/HP/Desktop/simulyasiya/ImtahanSimulyasiya/ImtahanSimulyasiya/ThirdProject/ThirdProject/Areas/admin/Views/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/source/repos/ThirdProject/ThirdProject/Areas/admin/Views/Category/Index.cshtml]
+[C:/Users/HP/Desktop/simulyasiya/ImtahanSimulyasiya/ImtahanSimulyasiya/ThirdProject/ThirdProject/Areas/admin/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/source/repos/ThirdProject/ThirdProject/Areas/admin/Views/Category/Info.cshtml]
+[C:/Users/HP/Desktop/simulyasiya/ImtahanSimulyasiya/ImtahanSimulyasiya/ThirdProject/ThirdProject/Areas/admin/Views/Category/Info.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQ2F0ZWdvcnlcSW5mby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/source/repos/ThirdProject/ThirdProject/Areas/admin/Views/Dashboard/Index.cshtml]
+[C:/Users/HP/Desktop/simulyasiya/ImtahanSimulyasiya/ImtahanSimulyasiya/ThirdProject/ThirdProject/Areas/admin/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/source/repos/ThirdProject/ThirdProject/Areas/admin/Views/News/Create.cshtml]
+[C:/Users/HP/Desktop/simulyasiya/ImtahanSimulyasiya/ImtahanSimulyasiya/ThirdProject/ThirdProject/Areas/admin/Views/News/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcTmV3c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/source/repos/ThirdProject/ThirdProject/Areas/admin/Views/News/Index.cshtml]
+[C:/Users/HP/Desktop/simulyasiya/ImtahanSimulyasiya/ImtahanSimulyasiya/ThirdProject/ThirdProject/Areas/admin/Views/News/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcTmV3c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/source/repos/ThirdProject/ThirdProject/Areas/admin/Views/News/Info.cshtml]
+[C:/Users/HP/Desktop/simulyasiya/ImtahanSimulyasiya/ImtahanSimulyasiya/ThirdProject/ThirdProject/Areas/admin/Views/News/Info.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcTmV3c1xJbmZvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/source/repos/ThirdProject/ThirdProject/Areas/admin/Views/News/Update.cshtml]
+[C:/Users/HP/Desktop/simulyasiya/ImtahanSimulyasiya/ImtahanSimulyasiya/ThirdProject/ThirdProject/Areas/admin/Views/News/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcTmV3c1xVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/source/repos/ThirdProject/ThirdProject/Areas/admin/Views/Shared/_Layout.cshtml]
+[C:/Users/HP/Desktop/simulyasiya/ImtahanSimulyasiya/ImtahanSimulyasiya/ThirdProject/ThirdProject/Areas/admin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/source/repos/ThirdProject/ThirdProject/Areas/admin/Views/_ViewImports.cshtml]
+[C:/Users/HP/Desktop/simulyasiya/ImtahanSimulyasiya/ImtahanSimulyasiya/ThirdProject/ThirdProject/Areas/admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/source/repos/ThirdProject/ThirdProject/Areas/admin/Views/_ViewStart.cshtml]
+[C:/Users/HP/Desktop/simulyasiya/ImtahanSimulyasiya/ImtahanSimulyasiya/ThirdProject/ThirdProject/Areas/admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/source/repos/ThirdProject/ThirdProject/Views/Auth/Login.cshtml]
+[C:/Users/HP/Desktop/simulyasiya/ImtahanSimulyasiya/ImtahanSimulyasiya/ThirdProject/ThirdProject/Views/Auth/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/source/repos/ThirdProject/ThirdProject/Views/Auth/Register.cshtml]
+[C:/Users/HP/Desktop/simulyasiya/ImtahanSimulyasiya/ImtahanSimulyasiya/ThirdProject/ThirdProject/Views/Auth/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/source/repos/ThirdProject/ThirdProject/Views/Home/Index.cshtml]
+[C:/Users/HP/Desktop/simulyasiya/ImtahanSimulyasiya/ImtahanSimulyasiya/ThirdProject/ThirdProject/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/source/repos/ThirdProject/ThirdProject/Views/_ViewImports.cshtml]
+[C:/Users/HP/Desktop/simulyasiya/ImtahanSimulyasiya/ImtahanSimulyasiya/ThirdProject/ThirdProject/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/source/repos/ThirdProject/ThirdProject/Views/_ViewStart.cshtml]
+[C:/Users/HP/Desktop/simulyasiya/ImtahanSimulyasiya/ImtahanSimulyasiya/ThirdProject/ThirdProject/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/source/repos/ThirdProject/ThirdProject/Views/Shared/_Layout.cshtml]
+[C:/Users/HP/Desktop/simulyasiya/ImtahanSimulyasiya/ImtahanSimulyasiya/ThirdProject/ThirdProject/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-jxam528bb9
