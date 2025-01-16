@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Identity;
+using Project.BL.Extensions;
 using Project.DAL.Contexts;
 using Project.DAL.Entities;
 using Project.DAL.Extensions;
@@ -7,6 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddingServicesForDAL();
+builder.Services.AddingServicesForBL();
 builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
 {
     opt.User.RequireUniqueEmail = true;

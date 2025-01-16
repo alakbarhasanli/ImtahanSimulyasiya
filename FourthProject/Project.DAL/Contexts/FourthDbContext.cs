@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Project.DAL.Contexts
 {
-    public class FourthDbContext:IdentityDbContext
+    public class FourthDbContext:IdentityDbContext<AppUser>
     {
         public DbSet<Doctors> doctors { get; set; }
         public DbSet<Department> departments { get; set; }
