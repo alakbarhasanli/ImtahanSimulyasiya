@@ -2,6 +2,7 @@
 
 namespace FourthProject.Areas.admin.Controllers
 {
+    [Area("admin")]
     public class DashboardController : Controller
     {
         public IActionResult Index()

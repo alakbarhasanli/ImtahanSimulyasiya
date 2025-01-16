@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\classtime\\source\\repos\\FourthProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{23D8816B-F398-4F73-A7DB-EF92033D8730}|FourthProject\\FourthProject.csproj|c:\\users\\classtime\\source\\repos\\fourthproject\\fourthproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D8816B-F398-4F73-A7DB-EF92033D8730}|FourthProject\\FourthProject.csproj|solutionrelative:fourthproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D8816B-F398-4F73-A7DB-EF92033D8730}|FourthProject\\FourthProject.csproj|c:\\users\\classtime\\source\\repos\\fourthproject\\fourthproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D8816B-F398-4F73-A7DB-EF92033D8730}|FourthProject\\FourthProject.csproj|solutionrelative:fourthproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{23D8816B-F398-4F73-A7DB-EF92033D8730}|FourthProject\\FourthProject.csproj|c:\\users\\classtime\\source\\repos\\fourthproject\\fourthproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{23D8816B-F398-4F73-A7DB-EF92033D8730}|FourthProject\\FourthProject.csproj|solutionrelative:fourthproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -31,10 +39,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{23D8816B-F398-4F73-A7DB-EF92033D8730}|FourthProject\\FourthProject.csproj|c:\\users\\classtime\\source\\repos\\fourthproject\\fourthproject\\fourthproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{23D8816B-F398-4F73-A7DB-EF92033D8730}|FourthProject\\FourthProject.csproj|solutionrelative:fourthproject\\fourthproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23D8816B-F398-4F73-A7DB-EF92033D8730}|FourthProject\\FourthProject.csproj|c:\\users\\classtime\\source\\repos\\fourthproject\\fourthproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23D8816B-F398-4F73-A7DB-EF92033D8730}|FourthProject\\FourthProject.csproj|solutionrelative:fourthproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23D8816B-F398-4F73-A7DB-EF92033D8730}|FourthProject\\FourthProject.csproj|c:\\users\\classtime\\source\\repos\\fourthproject\\fourthproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -188,24 +192,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\clinic-website-template\\index.html",
-              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\clinic-website-template\\index.html",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\clinic-website-template\\index.html",
-              "RelativeToolTip": "..\\..\\..\\Desktop\\clinic-website-template\\index.html",
-              "ViewState": "AgIAAOkBAAAAAAAAAAAAAAYCAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-01-16T12:22:57.752Z",
+              "DocumentIndex": 0,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\FourthProject\\Areas\\admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "FourthProject\\Areas\\admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FourthProject\\FourthProject\\Areas\\admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "FourthProject\\Areas\\admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:28:18.96Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\FourthProject\\Areas\\admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "FourthProject\\Areas\\admin\\Views\\_ViewImports.cshtml",
@@ -213,12 +217,11 @@
               "RelativeToolTip": "FourthProject\\Areas\\admin\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T12:18:18.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T12:18:18.897Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\FourthProject\\Areas\\admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "FourthProject\\Areas\\admin\\Views\\_ViewStart.cshtml",
@@ -226,12 +229,11 @@
               "RelativeToolTip": "FourthProject\\Areas\\admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T12:18:11.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T12:18:11.779Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\FourthProject\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "FourthProject\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
@@ -239,25 +241,24 @@
               "RelativeToolTip": "FourthProject\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABMAAAAAAAAAAAAlwCAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T12:18:00.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T12:18:00.42Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\FourthProject\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "FourthProject\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
               "ToolTip": "C:\\Users\\classtime\\source\\repos\\FourthProject\\FourthProject\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeToolTip": "FourthProject\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAAAFoBAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAFoBAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-16T12:17:30.219Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\MVC\\Bilet-18\\startbootstrap-sb-admin-2\\index.html",
               "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\MVC\\Bilet-18\\startbootstrap-sb-admin-2\\index.html",
@@ -265,12 +266,11 @@
               "RelativeToolTip": "..\\..\\..\\Desktop\\MVC\\Bilet-18\\startbootstrap-sb-admin-2\\index.html",
               "ViewState": "AgIAAGgBAAAAAAAAAAAAAGwBAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-01-16T12:14:30.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T12:14:30.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "DoctorService.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.BL\\Services\\Implementations\\DoctorService.cs",
               "RelativeDocumentMoniker": "Project.BL\\Services\\Implementations\\DoctorService.cs",
@@ -282,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "DepartmentService.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.BL\\Services\\Implementations\\DepartmentService.cs",
               "RelativeDocumentMoniker": "Project.BL\\Services\\Implementations\\DepartmentService.cs",
@@ -294,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\FourthProject\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "FourthProject\\Views\\Home\\Index.cshtml",
@@ -302,12 +302,36 @@
               "RelativeToolTip": "FourthProject\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAEMBAAAAAAAAAAAAwF4BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T12:13:14.844Z",
+              "WhenOpened": "2025-01-16T12:13:14.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\FourthProject\\Program.cs",
+              "RelativeDocumentMoniker": "FourthProject\\Program.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FourthProject\\FourthProject\\Program.cs",
+              "RelativeToolTip": "FourthProject\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:38:00.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\clinic-website-template\\index.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\clinic-website-template\\index.html",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\clinic-website-template\\index.html",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\clinic-website-template\\index.html",
+              "ViewState": "AgIAAOkBAAAAAAAAAAAAAAYCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-16T12:22:57.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "ServiceExtensionsForBL.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.BL\\Extensions\\ServiceExtensionsForBL.cs",
               "RelativeDocumentMoniker": "Project.BL\\Extensions\\ServiceExtensionsForBL.cs",
@@ -319,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
@@ -331,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.DAL\\Repositories\\Implementations\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Implementations\\GenericRepository.cs",
@@ -343,7 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "IDoctorService.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.BL\\Services\\Abstractions\\IDoctorService.cs",
               "RelativeDocumentMoniker": "Project.BL\\Services\\Abstractions\\IDoctorService.cs",
@@ -355,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "FourthProject.csproj",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\FourthProject\\FourthProject.csproj",
               "RelativeDocumentMoniker": "FourthProject\\FourthProject.csproj",
@@ -363,12 +387,11 @@
               "RelativeToolTip": "FourthProject\\FourthProject.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-16T10:15:50.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T10:15:50.141Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\FourthProject\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "FourthProject\\ScaffoldingReadMe.txt",
@@ -376,12 +399,11 @@
               "RelativeToolTip": "FourthProject\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-01-16T12:05:00.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T12:05:00.143Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\FourthProject\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "FourthProject\\Views\\Shared\\_Layout.cshtml",
@@ -389,12 +411,11 @@
               "RelativeToolTip": "FourthProject\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T12:13:14.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T12:13:14.422Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ServiceExtensionForDAL.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.DAL\\Extensions\\ServiceExtensionForDAL.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Extensions\\ServiceExtensionForDAL.cs",
@@ -406,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "IDoctorRepository.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.DAL\\Repositories\\Abstractions\\IDoctorRepository.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Abstractions\\IDoctorRepository.cs",
@@ -418,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.BL\\Services\\Implementations\\AuthService.cs",
               "RelativeDocumentMoniker": "Project.BL\\Services\\Implementations\\AuthService.cs",
@@ -430,7 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "IDepartmentRepository.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.DAL\\Repositories\\Abstractions\\IDepartmentRepository.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Abstractions\\IDepartmentRepository.cs",
@@ -442,7 +463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "IDepartmentService.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.BL\\Services\\Abstractions\\IDepartmentService.cs",
               "RelativeDocumentMoniker": "Project.BL\\Services\\Abstractions\\IDepartmentService.cs",
@@ -454,7 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.BL\\Services\\Abstractions\\IAuthService.cs",
               "RelativeDocumentMoniker": "Project.BL\\Services\\Abstractions\\IAuthService.cs",
@@ -466,7 +487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "FileManager.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.BL\\Helpers\\FileManager.cs",
               "RelativeDocumentMoniker": "Project.BL\\Helpers\\FileManager.cs",
@@ -478,7 +499,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "AuthProfile.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.BL\\Profiles\\AuthProfile.cs",
               "RelativeDocumentMoniker": "Project.BL\\Profiles\\AuthProfile.cs",
@@ -490,7 +511,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "DepartmentProfile.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.BL\\Profiles\\DepartmentProfile.cs",
               "RelativeDocumentMoniker": "Project.BL\\Profiles\\DepartmentProfile.cs",
@@ -502,7 +523,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "DoctorProfile.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.BL\\Profiles\\DoctorProfile.cs",
               "RelativeDocumentMoniker": "Project.BL\\Profiles\\DoctorProfile.cs",
@@ -514,7 +535,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "LoginAuthDto.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.BL\\DTOs\\LoginAuthDto.cs",
               "RelativeDocumentMoniker": "Project.BL\\DTOs\\LoginAuthDto.cs",
@@ -526,7 +547,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "DepartmentCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.BL\\DTOs\\DepartmentCreateDto.cs",
               "RelativeDocumentMoniker": "Project.BL\\DTOs\\DepartmentCreateDto.cs",
@@ -538,7 +559,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "DoctorCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.BL\\DTOs\\DoctorCreateDto.cs",
               "RelativeDocumentMoniker": "Project.BL\\DTOs\\DoctorCreateDto.cs",
@@ -550,7 +571,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "RegisterAuthDto.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.BL\\DTOs\\RegisterAuthDto.cs",
               "RelativeDocumentMoniker": "Project.BL\\DTOs\\RegisterAuthDto.cs",
@@ -562,7 +583,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "DepartmentRepository.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.DAL\\Repositories\\Implementations\\DepartmentRepository.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Implementations\\DepartmentRepository.cs",
@@ -574,7 +595,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "DoctorRepository.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.DAL\\Repositories\\Implementations\\DoctorRepository.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Implementations\\DoctorRepository.cs",
@@ -586,7 +607,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.DAL\\Entities\\Department.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Entities\\Department.cs",
@@ -598,7 +619,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Doctors.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.DAL\\Entities\\Doctors.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Entities\\Doctors.cs",
@@ -610,7 +631,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.DAL\\Entities\\AppUser.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Entities\\AppUser.cs",
@@ -622,7 +643,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "20250116104427_addtables.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.DAL\\Migrations\\20250116104427_addtables.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Migrations\\20250116104427_addtables.cs",
@@ -634,7 +655,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "20250116104355_addtables.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.DAL\\Migrations\\20250116104355_addtables.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Migrations\\20250116104355_addtables.cs",
@@ -646,20 +667,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\FourthProject\\Program.cs",
-              "RelativeDocumentMoniker": "FourthProject\\Program.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FourthProject\\FourthProject\\Program.cs",
-              "RelativeToolTip": "FourthProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:38:00.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\FourthProject\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "FourthProject\\Views\\_ViewImports.cshtml",
@@ -671,7 +679,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "AuditableEntitiy.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.DAL\\Entities\\AuditableEntitiy.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Entities\\AuditableEntitiy.cs",
@@ -683,7 +691,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "FourthDbContext.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.DAL\\Contexts\\FourthDbContext.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Contexts\\FourthDbContext.cs",
@@ -695,7 +703,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.DAL\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Entities\\BaseEntity.cs",
@@ -707,7 +715,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "GetConnectionStr.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\Project.DAL\\Helpers\\GetConnectionStr.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Helpers\\GetConnectionStr.cs",
@@ -719,7 +727,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\FourthProject\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "FourthProject\\Controllers\\HomeController.cs",
@@ -731,7 +739,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FourthProject\\FourthProject\\appsettings.json",
               "RelativeDocumentMoniker": "FourthProject\\appsettings.json",
