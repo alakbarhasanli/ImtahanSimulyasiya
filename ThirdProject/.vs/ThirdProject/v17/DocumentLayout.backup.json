@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\areas\\admin\\views\\news\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\news\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -37,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.dal\\repositories\\abstractions\\inewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -139,10 +159,6 @@
       "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\entitites\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\areas\\admin\\views\\news\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\news\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\areas\\admin\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -159,14 +175,6 @@
       "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.bl\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -177,10 +185,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\project.bl\\validations\\newsvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B7CC816-3493-457B-978D-5E88B8F964FC}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\validations\\newsvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -215,10 +219,6 @@
       "RelativeMoniker": "D:0:0:{76019B0D-F305-4DAC-B633-B2599157D306}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\entitites\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|c:\\users\\hp\\desktop\\simulyasiya\\imtahansimulyasiya\\imtahansimulyasiya\\thirdproject\\thirdproject\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A53DDE3D-CB01-49DC-B78A-971AD67B10F7}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -250,17 +250,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "ThirdProject\\Areas\\admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA1wAkAAAAWAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Controllers\\CategoryController.cs*",
+              "RelativeToolTip": "ThirdProject\\Areas\\admin\\Controllers\\CategoryController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T11:58:06.412Z",
               "IsPinned": true,
@@ -269,58 +269,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "ThirdProject\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "ThirdProject\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAMwCoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:26:41.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\appsettings.json",
-              "RelativeDocumentMoniker": "ThirdProject\\appsettings.json",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\appsettings.json",
-              "RelativeToolTip": "ThirdProject\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-15T10:13:52.273Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Program.cs",
-              "RelativeDocumentMoniker": "ThirdProject\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Program.cs",
-              "RelativeToolTip": "ThirdProject\\Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T10:09:16.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ThirdProject\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ThirdProject\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAJwAAAAAAAAAAAAAACkAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T10:26:31.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ThirdProject\\Views\\Home\\Index.cshtml",
@@ -328,12 +276,11 @@
               "RelativeToolTip": "ThirdProject\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAJkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T10:09:01.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T10:09:01.179Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Views\\Auth\\Login.cshtml",
               "RelativeDocumentMoniker": "ThirdProject\\Views\\Auth\\Login.cshtml",
@@ -341,25 +288,120 @@
               "RelativeToolTip": "ThirdProject\\Views\\Auth\\Login.cshtml",
               "ViewState": "AgIAACoAAAAAAAAAAAAAADIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T14:26:26.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T14:26:26.648Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Views\\Auth\\Register.cshtml",
               "RelativeDocumentMoniker": "ThirdProject\\Views\\Auth\\Register.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Views\\Auth\\Register.cshtml*",
-              "RelativeToolTip": "ThirdProject\\Views\\Auth\\Register.cshtml*",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEIAAAAjAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "ThirdProject\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T14:26:18.901Z",
+              "WhenOpened": "2025-01-15T14:26:18.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "ThirdProject\\Areas\\admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T12:09:56.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "ThirdProject\\Areas\\admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T12:09:42.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "ThirdProject\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAAFgBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T10:36:29.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ThirdProject\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEUAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T10:36:22.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ThirdProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ThirdProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAACkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T10:26:31.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Program.cs",
+              "RelativeDocumentMoniker": "ThirdProject\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Program.cs",
+              "RelativeToolTip": "ThirdProject\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:09:16.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\appsettings.json",
+              "RelativeDocumentMoniker": "ThirdProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\appsettings.json",
+              "RelativeToolTip": "ThirdProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T10:13:52.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ThirdProject\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ThirdProject\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAMwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:26:41.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "NewsController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Controllers\\NewsController.cs",
               "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Controllers\\NewsController.cs",
@@ -367,12 +409,11 @@
               "RelativeToolTip": "ThirdProject\\Areas\\admin\\Controllers\\NewsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:57:44.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T11:57:44.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Controllers\\DashboardController.cs",
@@ -380,12 +421,11 @@
               "RelativeToolTip": "ThirdProject\\Areas\\admin\\Controllers\\DashboardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T10:35:32.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T10:35:32.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "INewsRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Repositories\\Abstractions\\INewsRepository.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Abstractions\\INewsRepository.cs",
@@ -393,12 +433,11 @@
               "RelativeToolTip": "Project.DAL\\Repositories\\Abstractions\\INewsRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T10:54:35.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T10:54:35.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
@@ -406,12 +445,11 @@
               "RelativeToolTip": "Project.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:07:20.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T11:07:20.015Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Repositories\\Implementations\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Implementations\\GenericRepository.cs",
@@ -419,12 +457,11 @@
               "RelativeToolTip": "Project.DAL\\Repositories\\Implementations\\GenericRepository.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAIAwwEMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T10:59:32.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T10:59:32.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Repositories\\Abstractions\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Abstractions\\ICategoryRepository.cs",
@@ -432,12 +469,11 @@
               "RelativeToolTip": "Project.DAL\\Repositories\\Abstractions\\ICategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T10:54:09.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T10:54:09.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
@@ -445,12 +481,11 @@
               "RelativeToolTip": "Project.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T10:53:53.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T10:53:53.891Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "ServiceExtensionForDal.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Extensions\\ServiceExtensionForDal.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Extensions\\ServiceExtensionForDal.cs",
@@ -458,12 +493,11 @@
               "RelativeToolTip": "Project.DAL\\Extensions\\ServiceExtensionForDal.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAxwBUAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T10:20:54.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T10:20:54.748Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Entitites\\AppUser.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Entitites\\AppUser.cs",
@@ -471,12 +505,11 @@
               "RelativeToolTip": "Project.DAL\\Entitites\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T13:51:15.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T13:51:15.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "ThirdProjectDbContext.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Contexts\\ThirdProjectDbContext.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Contexts\\ThirdProjectDbContext.cs",
@@ -484,12 +517,11 @@
               "RelativeToolTip": "Project.DAL\\Contexts\\ThirdProjectDbContext.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAzwAwAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T10:10:37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T10:10:37Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "CategoryValidation.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Validations\\CategoryValidation.cs",
               "RelativeDocumentMoniker": "Project.BL\\Validations\\CategoryValidation.cs",
@@ -497,12 +529,11 @@
               "RelativeToolTip": "Project.BL\\Validations\\CategoryValidation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:41:11.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T11:41:11.305Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "AuthValidation.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Validations\\AuthValidation.cs",
               "RelativeDocumentMoniker": "Project.BL\\Validations\\AuthValidation.cs",
@@ -510,12 +541,11 @@
               "RelativeToolTip": "Project.BL\\Validations\\AuthValidation.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T18:34:00.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T18:34:00.528Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "NewsService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Services\\Implementations\\NewsService.cs",
               "RelativeDocumentMoniker": "Project.BL\\Services\\Implementations\\NewsService.cs",
@@ -523,12 +553,11 @@
               "RelativeToolTip": "Project.BL\\Services\\Implementations\\NewsService.cs",
               "ViewState": "AgIAAEwAAAAAAAAAAAAhwDsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:19:34.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T11:19:34.278Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Services\\Implementations\\AuthService.cs",
               "RelativeDocumentMoniker": "Project.BL\\Services\\Implementations\\AuthService.cs",
@@ -536,12 +565,11 @@
               "RelativeToolTip": "Project.BL\\Services\\Implementations\\AuthService.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAQwBEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:34:17.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T14:34:17.679Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "INewsService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Services\\Abstractions\\INewsService.cs",
               "RelativeDocumentMoniker": "Project.BL\\Services\\Abstractions\\INewsService.cs",
@@ -549,12 +577,11 @@
               "RelativeToolTip": "Project.BL\\Services\\Abstractions\\INewsService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T13:09:44.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T13:09:44.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Services\\Abstractions\\ICategoryService.cs",
               "RelativeDocumentMoniker": "Project.BL\\Services\\Abstractions\\ICategoryService.cs",
@@ -562,12 +589,11 @@
               "RelativeToolTip": "Project.BL\\Services\\Abstractions\\ICategoryService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:16:45.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T11:16:45.977Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Services\\Abstractions\\IAuthService.cs",
               "RelativeDocumentMoniker": "Project.BL\\Services\\Abstractions\\IAuthService.cs",
@@ -575,12 +601,11 @@
               "RelativeToolTip": "Project.BL\\Services\\Abstractions\\IAuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:31:52.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T14:31:52.447Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "CategoryProfile.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Profiles\\CategoryProfile.cs",
               "RelativeDocumentMoniker": "Project.BL\\Profiles\\CategoryProfile.cs",
@@ -588,12 +613,11 @@
               "RelativeToolTip": "Project.BL\\Profiles\\CategoryProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:17:54.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T11:17:54.261Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "AuthProfile.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Profiles\\AuthProfile.cs",
               "RelativeDocumentMoniker": "Project.BL\\Profiles\\AuthProfile.cs",
@@ -601,12 +625,11 @@
               "RelativeToolTip": "Project.BL\\Profiles\\AuthProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:36:33.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T14:36:33.168Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "FileManager.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Helpers\\FileManager.cs",
               "RelativeDocumentMoniker": "Project.BL\\Helpers\\FileManager.cs",
@@ -614,12 +637,11 @@
               "RelativeToolTip": "Project.BL\\Helpers\\FileManager.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:48:37.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T11:48:37.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "ServiceExtensionForBL.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Extensions\\ServiceExtensionForBL.cs",
               "RelativeDocumentMoniker": "Project.BL\\Extensions\\ServiceExtensionForBL.cs",
@@ -627,12 +649,11 @@
               "RelativeToolTip": "Project.BL\\Extensions\\ServiceExtensionForBL.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:42:00.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T11:42:00.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "RegisterCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\DTOs\\RegisterCreateDto.cs",
               "RelativeDocumentMoniker": "Project.BL\\DTOs\\RegisterCreateDto.cs",
@@ -640,12 +661,11 @@
               "RelativeToolTip": "Project.BL\\DTOs\\RegisterCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:27:08.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T14:27:08.734Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "NewsCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\DTOs\\NewsCreateDto.cs",
               "RelativeDocumentMoniker": "Project.BL\\DTOs\\NewsCreateDto.cs",
@@ -653,12 +673,11 @@
               "RelativeToolTip": "Project.BL\\DTOs\\NewsCreateDto.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAqwA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:13:39.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T11:13:39.238Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "LoginCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\DTOs\\LoginCreateDto.cs",
               "RelativeDocumentMoniker": "Project.BL\\DTOs\\LoginCreateDto.cs",
@@ -666,12 +685,11 @@
               "RelativeToolTip": "Project.BL\\DTOs\\LoginCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:29:12.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T14:29:12.462Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 37,
               "Title": "CategoryCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\DTOs\\CategoryCreateDto.cs",
               "RelativeDocumentMoniker": "Project.BL\\DTOs\\CategoryCreateDto.cs",
@@ -679,8 +697,7 @@
               "RelativeToolTip": "Project.BL\\DTOs\\CategoryCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:13:28.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T11:13:28.953Z"
             },
             {
               "$type": "Document",
@@ -696,7 +713,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 38,
               "Title": "News.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Entitites\\News.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Entitites\\News.cs",
@@ -708,7 +725,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 1,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\News\\Update.cshtml",
               "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Views\\News\\Update.cshtml",
@@ -716,11 +733,12 @@
               "RelativeToolTip": "ThirdProject\\Areas\\admin\\Views\\News\\Update.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T12:09:24.802Z"
+              "WhenOpened": "2025-01-15T12:09:24.802Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 39,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\News\\Index.cshtml",
               "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Views\\News\\Index.cshtml",
@@ -732,7 +750,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 40,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\News\\Create.cshtml",
               "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Views\\News\\Create.cshtml",
@@ -744,7 +762,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 41,
               "Title": "Info.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\News\\Info.cshtml",
               "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Views\\News\\Info.cshtml",
@@ -756,31 +774,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "ThirdProject\\Areas\\admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T12:09:42.787Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "ThirdProject\\Areas\\admin\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T12:09:56.977Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 42,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ThirdProject\\Controllers\\HomeController.cs",
@@ -792,7 +786,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Services\\Implementations\\CategoryService.cs",
               "RelativeDocumentMoniker": "Project.BL\\Services\\Implementations\\CategoryService.cs",
@@ -804,7 +798,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "Info.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Category\\Info.cshtml",
               "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Views\\Category\\Info.cshtml",
@@ -816,7 +810,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "NewsValidation.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Validations\\NewsValidation.cs",
               "RelativeDocumentMoniker": "Project.BL\\Validations\\NewsValidation.cs",
@@ -828,19 +822,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ThirdProject\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAswEUAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T10:36:22.043Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ThirdProject\\Views\\_ViewImports.cshtml",
@@ -852,7 +834,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ThirdProject\\Views\\_ViewStart.cshtml",
@@ -864,7 +846,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Views\\_ViewImports.cshtml",
@@ -876,7 +858,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "NewsProfile.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.BL\\Profiles\\NewsProfile.cs",
               "RelativeDocumentMoniker": "Project.BL\\Profiles\\NewsProfile.cs",
@@ -888,7 +870,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "NewsRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Repositories\\Implementations\\NewsRepository.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Implementations\\NewsRepository.cs",
@@ -900,7 +882,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Entitites\\Category.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Entitites\\Category.cs",
@@ -924,7 +906,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "AuditableEntity.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Entitites\\AuditableEntity.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Entitites\\AuditableEntity.cs",
@@ -936,7 +918,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\Project.DAL\\Entitites\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Entitites\\BaseEntity.cs",
@@ -945,18 +927,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T10:40:48.365Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "ThirdProject\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\simulyasiya\\ImtahanSimulyasiya\\ImtahanSimulyasiya\\ThirdProject\\ThirdProject\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "ThirdProject\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAGkAAAAAAAAAAIBJwFgBAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T10:36:29.422Z"
             },
             {
               "$type": "Document",

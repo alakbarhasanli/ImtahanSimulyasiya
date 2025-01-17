@@ -31,9 +31,9 @@ namespace Project.BL.Services.Implementations
             await _repo.SaveChangesAsync();
         }
 
-        public async Task<bool> DeleteAsync(int id, bool IsTracking=false, params string[] includes)
+        public async Task<bool> DeleteAsync(int id)
         {
-            var department = await _repo.GetOneByIdAsync(id, IsTracking, includes);
+            var department = await _repo.GetOneByIdAsync(id);
             if(department==null)
             {
                 throw new Exception("Department Not Found");
@@ -49,9 +49,9 @@ namespace Project.BL.Services.Implementations
             return await _repo.GetAllAsync();
         }
 
-        public async Task<Department> GetOneByIdAsync(int id, bool IsTracking=false, params string[] includes)
+        public async Task<Department> GetOneByIdAsync(int id)
         {
-            var department = await _repo.GetOneByIdAsync(id, IsTracking, includes);
+            var department = await _repo.GetOneByIdAsync(id);
             if (department == null)
             {
                 throw new Exception("Department Not Found");
@@ -59,18 +59,24 @@ namespace Project.BL.Services.Implementations
             return department;
         }
 
-        public async Task<bool> UpdateAsync(DepartmentCreateDto departmentCreateDto, int id, bool IsTracking, params string[] includes)
+        public async Task<bool> UpdateAsync(DepartmentCreateDto departmentCreateDto, int id)
         {
             Department? department = _mapper.Map<Department>(departmentCreateDto);
-            department.UpdatedAt = DateTime.Now;
             department.Id = id;
-            var existingDepartment = await _repo.GetOneByIdAsync(id, IsTracking, includes);
             if (department == null)
             {
-                throw new Exception("Department Not Found");
+                throw new Exception("Not found");
             }
-            _repo.Update(existingDepartment);
-           await  _repo.SaveChangesAsync();
+            department.Id = id;
+            
+
+            var existingDepartment = await _repo.GetOneByIdAsync(id);
+            if (existingDepartment == null)
+            {
+                throw new Exception(" Not Found");
+            }
+            _repo.Update(department);
+            await _repo.SaveChangesAsync();
             return true;
         }
     }

@@ -9,11 +9,12 @@ using System.Threading.Tasks;
 
 namespace Project.BL.Profiles
 {
-    public class DoctorProfile:Profile
+    public class DoctorProfile : Profile
     {
         public DoctorProfile()
         {
             CreateMap<Doctors, DoctorCreateDto>().ReverseMap();
+           
         }
     }
 }

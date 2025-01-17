@@ -31696,5 +31696,453 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\scss\bootstrap\scss\_variables.scss))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool 1187ca7f5-90e0-4651-adcc-cdd538bd0f50.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>FourthProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FourthProject</BasePath>
+      <RelativePath>Uploads/Image/liverpool 1187ca7f5-90e0-4651-adcc-cdd538bd0f50.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool 1187ca7f5-90e0-4651-adcc-cdd538bd0f50.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool 126989c2e-a7b3-4294-beca-ec949d808d4f.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>FourthProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FourthProject</BasePath>
+      <RelativePath>Uploads/Image/liverpool 126989c2e-a7b3-4294-beca-ec949d808d4f.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool 126989c2e-a7b3-4294-beca-ec949d808d4f.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool 139be453f-2da9-4081-ba95-78ef8012b69d.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>FourthProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FourthProject</BasePath>
+      <RelativePath>Uploads/Image/liverpool 139be453f-2da9-4081-ba95-78ef8012b69d.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool 139be453f-2da9-4081-ba95-78ef8012b69d.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool 156ddc841-11eb-4101-9613-1643b5d1ce21.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>FourthProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FourthProject</BasePath>
+      <RelativePath>Uploads/Image/liverpool 156ddc841-11eb-4101-9613-1643b5d1ce21.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool 156ddc841-11eb-4101-9613-1643b5d1ce21.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool 19998d010-3474-4a41-aa5a-d7b681adfb7e.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>FourthProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FourthProject</BasePath>
+      <RelativePath>Uploads/Image/liverpool 19998d010-3474-4a41-aa5a-d7b681adfb7e.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool 19998d010-3474-4a41-aa5a-d7b681adfb7e.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool 1c13fcbb8-564d-486f-9f22-c96d92400afe.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>FourthProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FourthProject</BasePath>
+      <RelativePath>Uploads/Image/liverpool 1c13fcbb8-564d-486f-9f22-c96d92400afe.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool 1c13fcbb8-564d-486f-9f22-c96d92400afe.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool 1c562a1dc-24ab-4734-a2b7-6aed369b7139.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>FourthProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FourthProject</BasePath>
+      <RelativePath>Uploads/Image/liverpool 1c562a1dc-24ab-4734-a2b7-6aed369b7139.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool 1c562a1dc-24ab-4734-a2b7-6aed369b7139.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool 1d6365aa2-4680-443b-92e3-9e6a8f348b3f.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>FourthProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FourthProject</BasePath>
+      <RelativePath>Uploads/Image/liverpool 1d6365aa2-4680-443b-92e3-9e6a8f348b3f.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool 1d6365aa2-4680-443b-92e3-9e6a8f348b3f.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool 1f953d33c-d032-429e-a1d6-15801c145179.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>FourthProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FourthProject</BasePath>
+      <RelativePath>Uploads/Image/liverpool 1f953d33c-d032-429e-a1d6-15801c145179.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool 1f953d33c-d032-429e-a1d6-15801c145179.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool stadium0a5e0343-6997-48a5-af7c-4a57aecb2602.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>FourthProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FourthProject</BasePath>
+      <RelativePath>Uploads/Image/liverpool stadium0a5e0343-6997-48a5-af7c-4a57aecb2602.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool stadium0a5e0343-6997-48a5-af7c-4a57aecb2602.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool stadium0f8a3d41-6638-450b-b1c8-0d0d36f6e58e.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>FourthProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FourthProject</BasePath>
+      <RelativePath>Uploads/Image/liverpool stadium0f8a3d41-6638-450b-b1c8-0d0d36f6e58e.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool stadium0f8a3d41-6638-450b-b1c8-0d0d36f6e58e.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool stadium18597f01-7f2b-4848-9d5e-67424dd30849.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>FourthProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FourthProject</BasePath>
+      <RelativePath>Uploads/Image/liverpool stadium18597f01-7f2b-4848-9d5e-67424dd30849.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool stadium18597f01-7f2b-4848-9d5e-67424dd30849.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool stadium5effc5c0-9327-493f-89e7-d653885d606b.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>FourthProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FourthProject</BasePath>
+      <RelativePath>Uploads/Image/liverpool stadium5effc5c0-9327-493f-89e7-d653885d606b.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool stadium5effc5c0-9327-493f-89e7-d653885d606b.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool stadium75ccd401-98d5-477b-abcb-6606e9783ba6.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>FourthProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FourthProject</BasePath>
+      <RelativePath>Uploads/Image/liverpool stadium75ccd401-98d5-477b-abcb-6606e9783ba6.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool stadium75ccd401-98d5-477b-abcb-6606e9783ba6.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool stadiumba29df46-c215-425b-9414-0753a186c91e.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>FourthProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FourthProject</BasePath>
+      <RelativePath>Uploads/Image/liverpool stadiumba29df46-c215-425b-9414-0753a186c91e.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool stadiumba29df46-c215-425b-9414-0753a186c91e.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool stadiumd0194b6e-6ee3-475a-823b-442c634ae669.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>FourthProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FourthProject</BasePath>
+      <RelativePath>Uploads/Image/liverpool stadiumd0194b6e-6ee3-475a-823b-442c634ae669.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool stadiumd0194b6e-6ee3-475a-823b-442c634ae669.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool stadiume85a1ac5-f6af-457b-8d9f-3b8fb61e1fd5.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>FourthProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FourthProject</BasePath>
+      <RelativePath>Uploads/Image/liverpool stadiume85a1ac5-f6af-457b-8d9f-3b8fb61e1fd5.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool stadiume85a1ac5-f6af-457b-8d9f-3b8fb61e1fd5.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool0739d622-4b93-4526-b13e-0ef468a92808.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>FourthProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FourthProject</BasePath>
+      <RelativePath>Uploads/Image/liverpool0739d622-4b93-4526-b13e-0ef468a92808.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool0739d622-4b93-4526-b13e-0ef468a92808.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool17861118-59cc-46d4-b36f-4781f8f50936.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>FourthProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FourthProject</BasePath>
+      <RelativePath>Uploads/Image/liverpool17861118-59cc-46d4-b36f-4781f8f50936.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool17861118-59cc-46d4-b36f-4781f8f50936.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool411e85d6-0d11-44b3-a7fc-08c431dd926d.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>FourthProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FourthProject</BasePath>
+      <RelativePath>Uploads/Image/liverpool411e85d6-0d11-44b3-a7fc-08c431dd926d.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool411e85d6-0d11-44b3-a7fc-08c431dd926d.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool5f515f87-023e-4f59-8449-40c71cee5db5.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>FourthProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FourthProject</BasePath>
+      <RelativePath>Uploads/Image/liverpool5f515f87-023e-4f59-8449-40c71cee5db5.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpool5f515f87-023e-4f59-8449-40c71cee5db5.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpoola5d1cfd3-c65a-4f25-908b-b035d66b9e8e.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>FourthProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FourthProject</BasePath>
+      <RelativePath>Uploads/Image/liverpoola5d1cfd3-c65a-4f25-908b-b035d66b9e8e.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpoola5d1cfd3-c65a-4f25-908b-b035d66b9e8e.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpoolaa2a8eab-c958-447c-a883-3165ae165526.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>FourthProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FourthProject</BasePath>
+      <RelativePath>Uploads/Image/liverpoolaa2a8eab-c958-447c-a883-3165ae165526.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpoolaa2a8eab-c958-447c-a883-3165ae165526.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpooldaf7ed23-b2e4-4706-af39-3b23ccf9d2dd.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>FourthProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FourthProject</BasePath>
+      <RelativePath>Uploads/Image/liverpooldaf7ed23-b2e4-4706-af39-3b23ccf9d2dd.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpooldaf7ed23-b2e4-4706-af39-3b23ccf9d2dd.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpooleafa0610-c3d0-4865-bb05-1b6684e8bdc4.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>FourthProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FourthProject</BasePath>
+      <RelativePath>Uploads/Image/liverpooleafa0610-c3d0-4865-bb05-1b6684e8bdc4.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpooleafa0610-c3d0-4865-bb05-1b6684e8bdc4.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpoolfab272a3-8d72-445d-9be6-3ab35fc887e5.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>FourthProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FourthProject</BasePath>
+      <RelativePath>Uploads/Image/liverpoolfab272a3-8d72-445d-9be6-3ab35fc887e5.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpoolfab272a3-8d72-445d-9be6-3ab35fc887e5.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpoolfac95571-d65a-475f-98f7-ed14c57218cf.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>FourthProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FourthProject</BasePath>
+      <RelativePath>Uploads/Image/liverpoolfac95571-d65a-475f-98f7-ed14c57218cf.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpoolfac95571-d65a-475f-98f7-ed14c57218cf.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpoolfb46cbca-52f7-4556-994d-10a10ea8a16d.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>FourthProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FourthProject</BasePath>
+      <RelativePath>Uploads/Image/liverpoolfb46cbca-52f7-4556-994d-10a10ea8a16d.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Image\liverpoolfb46cbca-52f7-4556-994d-10a10ea8a16d.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
   </ItemGroup>
 </Project>

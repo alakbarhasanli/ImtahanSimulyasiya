@@ -12,7 +12,7 @@ namespace Project.DAL.Repositories.Abstractions
     {
         public DbSet<T> Table { get;  }
         public Task<ICollection<T>> GetAllAsync();
-        public Task<T> GetOneByIdAsync(int id,bool IsTracking,params string[] includes);
+        public Task<T> GetOneByIdAsync(int id);
         public Task<int> SaveChangesAsync();
         public Task CreateAsync(T entity);
         public void Update(T Entity);

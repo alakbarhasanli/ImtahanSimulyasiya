@@ -11,10 +11,10 @@ namespace Project.BL.Services.Abstractions
     public interface IDepartmentService
     {
         public Task<ICollection<Department>> GetAllAsync();
-        public Task<Department> GetOneByIdAsync(int id,bool IsTracking,params string[] includes);
+        public Task<Department> GetOneByIdAsync(int id);
         public Task CreateAsync(DepartmentCreateDto departmentCreateDto);
-        public Task<bool> UpdateAsync(DepartmentCreateDto departmentCreateDto, int id, bool IsTracking, params string[] includes);
-        public Task<bool> DeleteAsync( int id, bool IsTracking, params string[] includes);
+        public Task<bool> UpdateAsync(DepartmentCreateDto departmentCreateDto, int id);
+        public Task<bool> DeleteAsync(int id    );
 
 
     }

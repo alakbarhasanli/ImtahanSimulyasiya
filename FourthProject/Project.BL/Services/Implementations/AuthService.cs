@@ -33,10 +33,10 @@ namespace Project.BL.Services.Implementations
             {
                 throw new Exception("User Not Found");
             }
-            var result= await _sign.PasswordSignInAsync(user, loginAuthDto.Password, true, true);
+            var result= await _sign.PasswordSignInAsync(user, loginAuthDto.Password, loginAuthDto.IsPersistent=true, true);
             if (!result.Succeeded)
             {
-                throw new Exception("Something went wrong");
+                return false;
             }
             return true;
         }

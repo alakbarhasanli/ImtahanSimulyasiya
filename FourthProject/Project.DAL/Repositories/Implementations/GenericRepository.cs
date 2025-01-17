@@ -36,37 +36,27 @@ namespace Project.DAL.Repositories.Implementations
             return await Table.ToListAsync();
         }
 
-        public async Task<T> GetOneByIdAsync(int id, bool IsTracking, params string[] includes)
+        public async Task<T> GetOneByIdAsync(int id)
         {
-            IQueryable<T> query = Table.AsQueryable();
-            if(!IsTracking)
+            var existingEntity = await Table.FirstOrDefaultAsync(x => x.Id == id);
+            if (existingEntity == null)
             {
-                query = query.AsNoTracking();
+                throw new Exception("Data not found");
             }
-            if(includes.Length>0)
-            {
-                foreach(var include in includes)
-                {
-                    query = query.Include(include);
-                }
-            }
-                var existingEntity = await query.FirstOrDefaultAsync(e => e.Id == id);
-                if(existingEntity==null)
-                {
-                    throw new Exception("entity not Found with this id");
-                }
-                return existingEntity ;
+            _context.Entry(existingEntity).State = EntityState.Detached;
+            return existingEntity;
         }
 
         public async Task<int> SaveChangesAsync()
         {
-            int rows = await _context.SaveChangesAsync();
-            return rows;
+             return await _context.SaveChangesAsync();
+            
         }
 
         public void Update(T Entity)
         {
-            Table.Update(Entity);
+            _context.Entry(Entity).State = EntityState.Modified;
+            
         }
     }
 }

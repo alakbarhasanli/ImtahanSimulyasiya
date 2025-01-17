@@ -40,9 +40,9 @@ namespace Project.BL.Services.Implementations
             await _repo.SaveChangesAsync();
         }
 
-        public async Task<bool> DeleteAsync(int id, bool IsTracking, params string[] includes)
+        public async Task<bool> DeleteAsync(int id)
         {
-            var doctors = await _repo.GetOneByIdAsync(id, IsTracking, includes);
+            var doctors = await _repo.GetOneByIdAsync(id);
             if (doctors == null)
             {
                 throw new Exception("Doctor  Not Found");
@@ -57,9 +57,9 @@ namespace Project.BL.Services.Implementations
             return await _repo.GetAllAsync();
         }
 
-        public async Task<Doctors> GetOneByIdAsync(int id, bool IsTracking, params string[] includes)
+        public async Task<Doctors> GetOneByIdAsync(int id)
         {
-            var doctors = await _repo.GetOneByIdAsync(id, IsTracking, includes);
+            Doctors? doctors = await _repo.GetOneByIdAsync(id);
             if (doctors == null)
             {
                 throw new Exception("Doctor Not Found");
@@ -67,17 +67,27 @@ namespace Project.BL.Services.Implementations
             return doctors;
         }
 
-        public async Task<bool> UpdateAsync(DoctorCreateDto doctorCreateDto, int id, bool IsTracking, params string[] includes)
+        public async Task<bool> UpdateAsync(DoctorCreateDto doctorCreateDto, int id)
         {
             Doctors? doctors = _mapper.Map<Doctors>(doctorCreateDto);
-            doctors.UpdatedAt = DateTime.Now;
+            if(doctors==null)
+            {
+                throw new Exception("Not found");
+            }
             doctors.Id = id;
-            var existingDoctors = await _repo.GetOneByIdAsync(id, IsTracking, includes);
+            if (doctorCreateDto.DoctorPhoto != null)
+            {
+                string rootpath = _env.WebRootPath;
+                string filename = await doctorCreateDto.DoctorPhoto.ImageUpload(Path.Combine(rootpath, "Uploads", "Image"));
+                doctors.ImageUrl = filename;
+            }
+
+            var existingDoctors = await _repo.GetOneByIdAsync(id);
             if (existingDoctors == null)
             {
                 throw new Exception("Doctor Not Found");
             }
-            _repo.Update(existingDoctors);
+            _repo.Update(doctors);
             await _repo.SaveChangesAsync();
             return true;
         }

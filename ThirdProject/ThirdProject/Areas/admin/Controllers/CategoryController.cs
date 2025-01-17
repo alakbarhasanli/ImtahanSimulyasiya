@@ -7,7 +7,7 @@ using Project.BL.Services.Abstractions;
 namespace ThirdProject.Areas.admin.Controllers
 {
     [Area("admin")]
-    [Authorize(Roles ="admin")]
+   
     public class CategoryController : Controller
     {
         private readonly ICategoryService _service;
